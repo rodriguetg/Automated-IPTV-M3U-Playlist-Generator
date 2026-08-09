@@ -1762,48 +1762,7 @@ def main():
     server_location = get_server_geolocation()
     
     excluded_groups = [
-        # Original excluded groups
-        "Argentina", "Austria", "Brazil", "Chile", "Denmark", "Germany",
-        "India", "Italy", "Mexico", "Norway", "South Korea", "Spain",
-        "Sweden", "Switzerland", "United Kingdom", "United States",
-        "Offline", "Test", "Demo", "Shopping", "Teleshopping", "Business",
-        "Culture", "Entertainmer", "Undefined", "Culture", "Religious",
-        "Thrills", "Black Entertainement", "Español", "Entertainment", "Food & Home",
-        
-        # Turkish groups from allgr.m3u
-        "|TR|🇹🇷 AVRUPA; DİNÎ; DİĞER",
-        "|TR|🇹🇷 BELGESEL & YAŞAM",
-        "|TR|🇹🇷 ÇOCUK / SPOR",
-        "|TR|🇹🇷 HABER",
-        "|TR|🇹🇷 MÜZİK",
-        "|TR|🇹🇷 ULUSAL GENEL",
-        "|TR|🇹🇷 YEREL - BÖLGESEL",
-        
-        # Arabic groups from allgr.m3u
-        "|AR|🇸🇦 MIDDLE EAST-1 عربي",
-        "|AR|🇸🇦 MIDDLE EAST-2 عربي",
-        "|AR|🇸🇦 THEMATICS-1 عربي",
-        "|AR|🇸🇦 THEMATICS-2 عربي",
-        
-        # European groups from allgr.m3u
-        "|DE|🇩🇪 DEUTSCHLAND - LOKALE",
-        "|ES|🇪🇸 ESPAÑA",
-        "|EU|🇪🇺 EUROPEAN COCKTAILTOUR🍸",
-        "|GR|🇬🇷 GREECE Ελλά",
-        "|HR-BA-RS++|🇭🇷🇧🇦🇷🇸 BALKANIC",
-        "|IT|🇮🇹 ITALIA - LOCALE",
-        "|PT|🇵🇹 PORTUGAL",
-        
-        # Middle Eastern & Regional groups from allgr.m3u
-        "|GE-AM-AZ|🇬🇪🇦🇲🇦🇿 CAUCASIAN",
-        "|IL|🇮🇱 ISRAEL ישראל",
-        "|IR|🇮🇷 IRAN",
-        "|LB|🇱🇧 LIBAN-LÜBNAN-LEBANON-لبنان",
-        "|MA-DZ-TN|🇲🇦🇩🇿🇹🇳 MAGHREB المغرب",
-        
-        # International & Special groups from allgr.m3u
-        "|EN-UK-US|🇬🇧🇺🇸 WORLDWIDE-INTL ℹ️🌐",
-        "|📡|👨‍💻👉GITHUB.COM/IPSTREET312"
+        # Filtres désactivés — on garde tout ce que les sources fournissent
     ]
     
     source_urls = [
@@ -1818,12 +1777,19 @@ def main():
         "https://tinyurl.com/Stream2IPTV?region=fr&service=Plex",
         "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/fr_rakuten.m3u",
         "https://list.iptvcat.com/my_list/33b417553a834a782ea5d4d15abbef92.m3u8",
+        # --- Sources francophones supplémentaires ---
+        "https://iptv-org.github.io/iptv/countries/fr.m3u",
+        "https://iptv-org.github.io/iptv/countries/be.m3u",
+        "https://iptv-org.github.io/iptv/countries/ch.m3u",
+        "https://iptv-org.github.io/iptv/languages/fra.m3u",
+        # --- Couverture mondiale (index complet iptv-org) ---
+        "https://iptv-org.github.io/iptv/index.m3u",
     ]
     
     config = {
-        'max_workers': 15,
+        'max_workers': 60,
         'request_timeout': 12,
-        'max_retries': 2,
+        'max_retries': 1,
         'enable_deduplication': True,
         'enable_quality_sorting': True,
         'quality_preferences': ['4K', '1080p', '720p', '480p', '360p'],
