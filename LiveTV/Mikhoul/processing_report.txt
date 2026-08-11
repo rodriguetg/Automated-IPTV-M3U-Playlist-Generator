@@ -1,56 +1,56 @@
 M3U Collector Processing Report
 Country: Mikhoul
-Generated: 2026-08-10 20:40:07
+Generated: 2026-08-11 20:41:00
 ============================================================
 
 PROCESSING STATISTICS
 -------------------------
-Total Lines Processed: 33179
-Total Channels Found: 14392
+Total Lines Processed: 31191
+Total Channels Found: 13617
 Parsing Errors: 0
-Urls Validated: 12917
-Active Urls: 10072
-Geo Blocked Urls: 837
-Validation Time: 849.602029800415
-Inactive By Error: {'http_404': 1021, 'inactive': 1305, 'invalid_content': 265, 'http_429': 4, 'http_502': 18, 'http_400': 82, 'http_500': 13, 'http_503': 34, 'http_410': 3, 'http_406': 5, 'http_401': 12, 'http_409': 5, 'http_451': 2, 'http_504': 21, 'http_204': 17, 'http_530': 6, 'http_512': 1, 'http_567': 5, 'http_520': 1, 'http_407': 1, 'http_218': 3, 'http_415': 4, 'http_574': 1, 'http_408': 7, 'http_523': 3, 'http_206': 1, 'http_421': 2, 'http_405': 1, 'http_521': 1, 'http_492': 1}
-Total Processing Time: 1199.9769253730774
-Final Channel Count: 10072
+Urls Validated: 12228
+Active Urls: 10098
+Geo Blocked Urls: 842
+Validation Time: 835.8282318115234
+Inactive By Error: {'inactive': 1084, 'invalid_content': 268, 'http_404': 554, 'http_429': 4, 'http_502': 17, 'http_400': 74, 'http_500': 14, 'http_503': 26, 'http_401': 13, 'http_406': 5, 'http_409': 5, 'http_451': 2, 'http_504': 21, 'http_204': 15, 'http_530': 7, 'http_567': 5, 'http_512': 1, 'http_520': 1, 'http_407': 1, 'http_218': 3, 'http_574': 1, 'http_523': 3, 'http_206': 1, 'http_421': 2, 'http_405': 1, 'http_521': 1, 'http_492': 1}
+Total Processing Time: 1155.8334817886353
+Final Channel Count: 10098
 Source Urls Processed: 13
-Total Skipped Urls: 1598
+Total Skipped Urls: 1437
 
 CHANNEL DISTRIBUTION
 --------------------
-Undefined: 2490 channels
-General: 2012 channels
-News: 673 channels
-Music: 598 channels
-Entertainment: 585 channels
-Religious: 575 channels
-Movies: 427 channels
-Sports: 327 channels
-Series: 263 channels
-Kids: 211 channels
-Documentary: 136 channels
-Legislative: 136 channels
-Education: 119 channels
+Undefined: 2473 channels
+General: 2010 channels
+News: 695 channels
+Music: 597 channels
+Entertainment: 594 channels
+Religious: 580 channels
+Movies: 424 channels
+Sports: 322 channels
+Series: 264 channels
+Kids: 212 channels
+Documentary: 134 channels
+Legislative: 133 channels
+Education: 118 channels
 Uncategorized: 108 channels
-Culture: 96 channels
+Culture: 98 channels
 Comedy: 86 channels
-Lifestyle: 75 channels
-Shop: 65 channels
-Business: 51 channels
+Lifestyle: 77 channels
+Shop: 67 channels
+Business: 56 channels
 Cinéma: 49 channels
-Classic: 47 channels
-Outdoor: 42 channels
-Animation: 38 channels
-Travel: 38 channels
+Classic: 48 channels
+Outdoor: 43 channels
+Animation: 39 channels
+Travel: 35 channels
 Généraliste: 33 channels
-Movies;Series: 32 channels
+Movies;Series: 33 channels
 Divertissement: 28 channels
 Animation;Kids: 27 channels
-Animation;Comedy: 23 channels
-Cooking: 23 channels
-Family: 21 channels
+Cooking: 25 channels
+Animation;Comedy: 24 channels
+Family: 22 channels
 Actualités: 20 channels
 Séries TV: 19 channels
 Sport Multiplex: 18 channels
@@ -70,78 +70,78 @@ Outdoor;Sports: 9 channels
 100% Français: 9 channels
 FRANCE: 9 channels
 Culture;News: 9 channels
+Kids;Religious: 9 channels
 Crime: 8 channels
 Education;Kids: 8 channels
 Classic TV: 8 channels
 News;Public: 8 channels
-Science: 8 channels
-Classic;Movies: 7 channels
 Crime & Mystère: 7 channels
 Business;News: 7 channels
 Music;Religious: 7 channels
+Science: 7 channels
+Culture;Education: 7 channels
 Voyages et Gastronomie: 6 channels
+Classic;Movies: 6 channels
 Documentary;Series: 6 channels
 À Binge-Watch: 6 channels
 Food & Home: 6 channels
+Nature & Travel: 6 channels
 Family;Movies: 6 channels
 Entertainment;News: 6 channels
-Culture;Education: 6 channels
 Informations Françaises: 5 channels
 Culture;Music: 5 channels
 Comedy;Movies: 5 channels
 Comedy;Series: 5 channels
 Documentaire: 5 channels
-Nature & Travel: 5 channels
 Documentary;News: 5 channels
-Entertainment;Music: 5 channels
-Kids;Religious: 5 channels
+General;Religious: 5 channels
 Sport Thématique: 4 channels
 Style de vie/Pratique: 4 channels
 Anime: 4 channels
 Relax: 4 channels
 Séries Policières: 4 channels
 En Español: 4 channels
-General;Religious: 4 channels
+Entertainment;Music: 4 channels
 Communautaire: 3 channels
 Locale: 3 channels
 Télé réalité: 3 channels
 TV Réalité: 3 channels
 Nouveau sur Pluto TV: 3 channels
-Black Entertainment: 3 channels
 Reality: 3 channels
+Black Entertainment: 3 channels
 Daytime TV: 3 channels
 Chills & Thrills: 3 channels
 History & Science: 3 channels
 Culture;Religious: 3 channels
 Education;Outdoor: 3 channels
 Culture;Documentary: 3 channels
-Entertainment;Series: 3 channels
+Classic;Series: 3 channels
+Entertainment;Sports: 3 channels
 Music;News: 3 channels
+Entertainment;Series: 3 channels
 Outdoor;Travel: 3 channels
 Découverte: 2 channels
 Classic;Comedy: 2 channels
 Emissions cultes: 2 channels
 Comédie: 2 channels
 Sci-Fi & Action: 2 channels
-True Crime: 2 channels
 Anime & Gaming, Kids & Family: 2 channels
-Hit TV, True Crime: 2 channels
+True Crime: 2 channels
 Drama TV: 2 channels
+Hit TV, True Crime: 2 channels
 Music, En Español: 2 channels
 Culture;General: 2 channels
-Entertainment;Family;General: 2 channels
 Animation;Kids;Religious: 2 channels
+Entertainment;Family;General: 2 channels
 News;Weather: 2 channels
 Entertainment;General: 2 channels
-Classic;Series: 2 channels
 Documentary;Education: 2 channels
-Education;Lifestyle: 2 channels
 Classic;Music: 2 channels
 Kids;Public: 2 channels
 Movies;News: 2 channels
-Entertainment;Sports: 2 channels
-Public;Sports: 2 channels
+Relax;Travel: 2 channels
 Culture;Public: 2 channels
+Public;Sports: 2 channels
 Entertainment;Family: 2 channels
 Kids;Movies: 2 channels
 Culture;Education;Entertainment: 2 channels
@@ -151,15 +151,15 @@ General;Sports: 2 channels
 Entertainment;General;News: 2 channels
 Comedy;Movies;Series;Sports: 2 channels
 Culture;Entertainment;Music;News: 2 channels
-Réréalité: 1 channels
 Multiculturel: 1 channels
 Educatif: 1 channels
-Comedie: 1 channels
-Culturelle: 1 channels
 Film: 1 channels
+Culturelle: 1 channels
+Comedie: 1 channels
+Réréalité: 1 channels
 Affaires Publiques: 1 channels
-Thématique: 1 channels
 Cuisine: 1 channels
+Thématique: 1 channels
 Quebec TV: 1 channels
 Sport: 1 channels
 Etrangère: 1 channels
@@ -167,120 +167,117 @@ Lifestyle;Outdoor: 1 channels
 Entertainment;Outdoor;Series: 1 channels
 Sports & Auto: 1 channels
 News, En Español: 1 channels
-Hit TV, Game Shows: 1 channels
 Drama TV, Movies: 1 channels
+Hit TV, Game Shows: 1 channels
 Movies, Chills & Thrills: 1 channels
-News;Science: 1 channels
 Entertainment;Interactive: 1 channels
 International: 1 channels
-General;Music;Public: 1 channels
-News;Sports: 1 channels
+News;Science: 1 channels
 Documentary;Science: 1 channels
+General;Music;Public: 1 channels
 Documentary;Outdoor: 1 channels
 Cooking;Documentary: 1 channels
+News;Sports: 1 channels
 Kids;Sports: 1 channels
 Public;Weather: 1 channels
 Family;Religious: 1 channels
-Lifestyle;Relax: 1 channels
 Classic;Comedy;Public;Series: 1 channels
-Entertainment;Kids: 1 channels
+Lifestyle;Relax: 1 channels
 Movies;Religious: 1 channels
 General;Music: 1 channels
-Culture;Documentary;Entertainment;General;Movies;Music: 1 channels
 Comedy;Family;Movies: 1 channels
+Culture;Documentary;Entertainment;General;Movies;Music: 1 channels
 Business;Culture;Lifestyle: 1 channels
-General;Legislative: 1 channels
 Animation;General;Kids: 1 channels
+General;Legislative: 1 channels
 Animation;Family;Kids: 1 channels
 Business;Documentary: 1 channels
-Kids;Music: 1 channels
-Auto;Series: 1 channels
+Education;Lifestyle: 1 channels
 Education;General: 1 channels
+Auto;Series: 1 channels
+Education;Science: 1 channels
 Culture;Documentary;Travel: 1 channels
 Entertainment;Travel: 1 channels
 General;Lifestyle;Music;News: 1 channels
-Family;General: 1 channels
-Business;Series: 1 channels
-Public: 1 channels
-Education;News: 1 channels
-Auto;Travel: 1 channels
-Cooking;Shop: 1 channels
-Lifestyle;Shop: 1 channels
-Entertainment;News;Shop: 1 channels
 Culture;Entertainment: 1 channels
+Culture;Travel: 1 channels
+Education;News: 1 channels
+Public: 1 channels
+Business;Series: 1 channels
+Lifestyle;Shop: 1 channels
+Cooking;Shop: 1 channels
+Entertainment;News;Shop: 1 channels
+Auto;Travel: 1 channels
 Documentary;Entertainment: 1 channels
-Animation;Culture;Entertainment: 1 channels
-Animation;Movies: 1 channels
-Entertainment;Movies: 1 channels
 Lifestyle;Travel: 1 channels
-Auto;Outdoor;Sports: 1 channels
 Documentary;Religious: 1 channels
-Culture;Sports: 1 channels
+Auto;Outdoor;Sports: 1 channels
+Entertainment;Movies: 1 channels
 Culture;Kids: 1 channels
+Culture;Entertainment;Music: 1 channels
+Culture;Sports: 1 channels
 Movies;Shop: 1 channels
 Animation;Kids;Music: 1 channels
 Animation;Classic;Entertainment: 1 channels
 Comedy;Kids: 1 channels
 Movies;Music: 1 channels
-Culture;Entertainment;Music: 1 channels
 Education;News;Science: 1 channels
 Music;News;Religious: 1 channels
-Education;Science: 1 channels
 Legislative;News: 1 channels
-Entertainment;Lifestyle;Music: 1 channels
-Auto;Documentary: 1 channels
 Education;Religious: 1 channels
+Documentary;Lifestyle: 1 channels
+Auto;Documentary: 1 channels
 Animation;Classic: 1 channels
+Entertainment;Lifestyle;Music: 1 channels
+Culture;Lifestyle: 1 channels
 Animation;Kids;Public: 1 channels
 Auto;Outdoor;Series;Sports: 1 channels
 Culture;Family: 1 channels
-Documentary;Education;Science: 1 channels
-Culture;Education;News: 1 channels
 Classic;Shop: 1 channels
+Family;General: 1 channels
 Documentary;Travel: 1 channels
-Education;Entertainment;News: 1 channels
+Kids;Lifestyle: 1 channels
 General;Series: 1 channels
+Education;Entertainment;News: 1 channels
+Culture;Education;News: 1 channels
+Documentary;Education;Science: 1 channels
 Documentary;Education;Outdoor;Relax: 1 channels
-Entertainment;Outdoor: 1 channels
-Culture;Education;Public: 1 channels
-Culture;Lifestyle: 1 channels
 Auto;Entertainment: 1 channels
 Family;Kids: 1 channels
+Culture;Education;Public: 1 channels
 Entertainment;Family;General;News: 1 channels
-Kids;Lifestyle: 1 channels
+Kids;Music: 1 channels
+Classic;News: 1 channels
 
 VALIDATION FAILURE BREAKDOWN
 ----------------------------
-HTTP 204 Errors: 17 channels
+HTTP 204 Errors: 15 channels
 HTTP 206 Errors: 1 channels
 HTTP 218 Errors: 3 channels
-HTTP 400 Errors: 82 channels
-HTTP 401 Errors: 12 channels
-HTTP 404 Errors: 1021 channels
+HTTP 400 Errors: 74 channels
+HTTP 401 Errors: 13 channels
+HTTP 404 Errors: 554 channels
 HTTP 405 Errors: 1 channels
 HTTP 406 Errors: 5 channels
 HTTP 407 Errors: 1 channels
-HTTP 408 Errors: 7 channels
 HTTP 409 Errors: 5 channels
-HTTP 410 Errors: 3 channels
-HTTP 415 Errors: 4 channels
 HTTP 421 Errors: 2 channels
 HTTP 429 Errors: 4 channels
 HTTP 451 Errors: 2 channels
 HTTP 492 Errors: 1 channels
-HTTP 500 Errors: 13 channels
-HTTP 502 Errors: 18 channels
-HTTP 503 Errors: 34 channels
+HTTP 500 Errors: 14 channels
+HTTP 502 Errors: 17 channels
+HTTP 503 Errors: 26 channels
 HTTP 504 Errors: 21 channels
 HTTP 512 Errors: 1 channels
 HTTP 520 Errors: 1 channels
 HTTP 521 Errors: 1 channels
 HTTP 523 Errors: 3 channels
-HTTP 530 Errors: 6 channels
+HTTP 530 Errors: 7 channels
 HTTP 567 Errors: 5 channels
 HTTP 574 Errors: 1 channels
-Inactive: 1305 channels
-Invalid Content: 265 channels
+Inactive: 1084 channels
+Invalid Content: 268 channels
 
 SKIPPED URLS (Invalid, Non-HTTP, or Duplicate)
 ---------------------------------------------
@@ -404,10 +401,9 @@ URL: https://amg02393-awpg-amg02393c2-rakuten-uk-2464.playouts.now.amagi.tv/play
 URL: https://zylo-cinenanar-rakuten.amagi.tv/playlist.m3u8 (Reason: Duplicate)
 URL: https://amg00711-zylo-amg00711c8-rakuten-uk-2686.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinewestern-rakutenuk/playlist.m3u8 (Reason: Duplicate)
 
---- From Source: https://iptv-org.github.io/iptv/countries/fr.m3u (93 skipped) ---
+--- From Source: https://iptv-org.github.io/iptv/countries/fr.m3u (88 skipped) ---
 URL: https://live-20minutestv.digiteka.com/1961167769/index.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-60afaa535580be0007ac9ee4.m3u8 (Reason: Duplicate)
-URL: https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/bsmart.m3u8 (Reason: Duplicate)
 URL: https://amg00627-amg00627c31-rakuten-fr-3991.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanfrcc-rakutenfr/playlist.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-66f55a9a747bfa0008521859.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-5ffc8c345822750007e167de.m3u8 (Reason: Duplicate)
@@ -433,14 +429,12 @@ URL: https://jmp2.uk/plu-604f8de01b479400078fb1e7.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-5f8ecc7aa44d9c00081fca29.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-6683cd2fca74680008772545.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-65ccd26060eb870008db95fc.m3u8 (Reason: Duplicate)
-URL: https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/lemedia.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-60549c238c3f21000753d3e0.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-60afae68a7fc50000737186d.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-60549d97cd7b090007c73314.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-5f8edb6df1ebb800072edf10.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-5f8ed6d569d2d4000864a976.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-6245ccd0c6cdb800074632e4.m3u8 (Reason: Duplicate)
-URL: https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/maisonettravaux.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-6671b21ffc3a46000857fe75.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-5f92b56a367e170007cd43f4.m3u8 (Reason: Duplicate)
 URL: https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8 (Reason: Duplicate)
@@ -479,8 +473,6 @@ URL: https://06cb85ad6ccb4a6b97f561e62d16ad3f.mediatailor.us-west-2.amazonaws.co
 URL: https://49d735318d6b4c30a24a7997ea594e1b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-820-FR-SONYONEFAVORIS-LG_FR/playlist.m3u8 (Reason: Duplicate)
 URL: https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-817-FR-SONYONEHITSACTION-LG_FR/playlist.m3u8 (Reason: Duplicate)
 URL: https://7aa9671895264ec9a384dfed1b992171.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-818-FR-SONYONEHITSCOMDIE-LG_FR/playlist.m3u8 (Reason: Duplicate)
-URL: https://4f2a3e1ff5274297b115cf0f7da1c2cd.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-819-FR-SONYONESRIESCOMDIE-LG_FR/playlist.m3u8 (Reason: Duplicate)
-URL: https://483a1e90c18641c9a6d27becd41ad892.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-821-FR-SONYONESRIESTHRILLER-LG_FR/playlist.m3u8 (Reason: Duplicate)
 URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/t18-dm.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-62f3f05505e621000783df2f.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-5f8ecc1b37867f00071469e9.m3u8 (Reason: Duplicate)
@@ -499,25 +491,23 @@ URL: https://d20oth1416y9a1.cloudfront.net/playlist/amg00711-zylofast-frequencen
 URL: https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist.m3u8 (Reason: Duplicate)
 URL: https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/rakutenAA-zylo-screamin-rakuten/playlist.m3u8 (Reason: Duplicate)
 
---- From Source: https://iptv-org.github.io/iptv/countries/be.m3u (9 skipped) ---
+--- From Source: https://iptv-org.github.io/iptv/countries/be.m3u (8 skipped) ---
 URL: https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8 (Reason: Duplicate)
 URL: http://145.239.5.177/354/index.m3u8 (Reason: Duplicate)
-URL: http://151.80.18.177:86/LCI_HD/index.m3u8 (Reason: Duplicate)
-URL: http://rjcf.ofztvxv.top:8080/kang/71267133/99554 (Reason: Duplicate)
+URL: http://145.239.5.177/368/index.m3u8 (Reason: Duplicate)
 URL: http://89.33.29.118/MCM/index.m3u8 (Reason: Duplicate)
-URL: http://41.205.70.146/MTVFRANCE/index.m3u8 (Reason: Duplicate)
+URL: http://99.27.51.147:8080/MTV/index.m3u8 (Reason: Duplicate)
 URL: https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8 (Reason: Duplicate)
 URL: https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8 (Reason: Duplicate)
 URL: https://7689426c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1mcl9aZWVNYWdpY19ITFM/playlist.m3u8 (Reason: Duplicate)
 
---- From Source: https://iptv-org.github.io/iptv/countries/ch.m3u (18 skipped) ---
+--- From Source: https://iptv-org.github.io/iptv/countries/ch.m3u (17 skipped) ---
 URL: https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uze1m6xh4fiyr-ssai-prd/master.m3u8 (Reason: Duplicate)
 URL: https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8 (Reason: Duplicate)
 URL: http://145.239.5.177/354/index.m3u8 (Reason: Duplicate)
-URL: http://151.80.18.177:86/LCI_HD/index.m3u8 (Reason: Duplicate)
-URL: http://rjcf.ofztvxv.top:8080/kang/71267133/99554 (Reason: Duplicate)
+URL: http://145.239.5.177/368/index.m3u8 (Reason: Duplicate)
 URL: http://89.33.29.118/MCM/index.m3u8 (Reason: Duplicate)
-URL: http://41.205.70.146/MTVFRANCE/index.m3u8 (Reason: Duplicate)
+URL: http://99.27.51.147:8080/MTV/index.m3u8 (Reason: Duplicate)
 URL: http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8 (Reason: Duplicate)
 URL: https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8 (Reason: Duplicate)
 URL: http://145.239.5.177/308/index.m3u8 (Reason: Duplicate)
@@ -530,7 +520,7 @@ URL: https://d20oth1416y9a1.cloudfront.net/playlist/amg00711-zylofast-frequencen
 URL: https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist.m3u8 (Reason: Duplicate)
 URL: https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/rakutenAA-zylo-screamin-rakuten/playlist.m3u8 (Reason: Duplicate)
 
---- From Source: https://iptv-org.github.io/iptv/languages/fra.m3u (295 skipped) ---
+--- From Source: https://iptv-org.github.io/iptv/languages/fra.m3u (261 skipped) ---
 URL: http://145.239.5.177/314/index.m3u8 (Reason: Duplicate)
 URL: https://live-20minutestv.digiteka.com/1961167769/index.m3u8 (Reason: Duplicate)
 URL: http://145.239.5.177/332/index.m3u8 (Reason: Duplicate)
@@ -540,11 +530,8 @@ URL: https://africa24.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8 (R
 URL: https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-60afaa535580be0007ac9ee4.m3u8 (Reason: Duplicate)
 URL: https://edge13.vedge.infomaniak.com/livecast/ik:adhtv/manifest.m3u8 (Reason: Duplicate)
-URL: https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/angerstele.m3u8 (Reason: Duplicate)
 URL: https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01 (Reason: Duplicate)
-URL: https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/arabel.m3u8 (Reason: Duplicate)
 URL: http://145.239.5.177/300/index.m3u8 (Reason: Duplicate)
-URL: https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/bsmart.m3u8 (Reason: Duplicate)
 URL: https://belafrikamediatv.vedge.infomaniak.com/livecast/ik:belafrikamediatv/manifest.m3u8 (Reason: Duplicate)
 URL: https://amg00627-amg00627c31-rakuten-fr-3991.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanfrcc-rakutenfr/playlist.m3u8 (Reason: Duplicate)
 URL: https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master.m3u8 (Reason: Duplicate)
@@ -571,14 +558,13 @@ URL: https://59959724487e3.streamlock.net/stream/live/playlist.m3u8 (Reason: Dup
 URL: http://145.239.5.177/361/index.m3u8 (Reason: Duplicate)
 URL: https://do7nccdsswstc.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1aso0bc668saa/a5233c83-f772-4a81-959a-45ec7877ef61/5.m3u8 (Reason: Duplicate)
 URL: https://livehd.vedge.infomaniak.com/livecast/livehd/master.m3u8 (Reason: Duplicate)
-URL: https://event.vedge.infomaniak.com/livecast/ik:canal32_4/manifest.m3u8 (Reason: Duplicate)
 URL: https://hls.savoir.media/live/stream.m3u8 (Reason: Duplicate)
 URL: https://tvlocales-live.freecaster.com/live/95d2e3af-5ab8-45a9-9dc9-f544d006b5d5/95d2e3af-5ab8-45a9-9dc9-f544d006b5d5.isml/master.m3u8 (Reason: Duplicate)
 URL: http://151.80.18.177:86/Canal+_cinema_HD/index.m3u8 (Reason: Duplicate)
 URL: https://futbol9865.ultratv13.workers.dev/deportivo111/14.m3u8 (Reason: Duplicate)
 URL: https://vdo2.pro-fhi.net:3628/live/uppodsfqlive.m3u8 (Reason: Duplicate)
 URL: http://145.239.5.177/359a/index.m3u8 (Reason: Duplicate)
-URL: https://edge13.vedge.infomaniak.com/livecast/ik:event/manifest.m3u8 (Reason: Duplicate)
+URL: http://145.239.5.177/371/index.m3u8 (Reason: Duplicate)
 URL: https://onefmhd.vedge.infomaniak.com/livecast/ik:onefmhd/manifest.m3u8 (Reason: Duplicate)
 URL: https://lfmhd.vedge.infomaniak.com/livecast/lfmhd/playlist.m3u8 (Reason: Duplicate)
 URL: https://edge17.vedge.infomaniak.com/livecast/ik:compack_media_1/playlist.m3u8 (Reason: Duplicate)
@@ -607,9 +593,7 @@ URL: https://jmp2.uk/plu-6683b680efa2a10008e8a393.m3u8 (Reason: Duplicate)
 URL: https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-62f3e8ad2a8e8000077b013d.m3u8 (Reason: Duplicate)
 URL: http://151.80.18.177:86/Disney_Junior_HD/index.m3u8 (Reason: Duplicate)
-URL: https://tv.num221tech.com:5443/LiveApp/streams/dntv.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-5f8edad922b10b000753bc37.m3u8 (Reason: Duplicate)
-URL: https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/emciafrique.m3u8 (Reason: Duplicate)
 URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8 (Reason: Duplicate)
 URL: https://2f6c5bf4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c0ZyYW5jYWlzX0hMUw/playlist.m3u8 (Reason: Duplicate)
 URL: https://evandis.streamakaci.tv/str_evandis_evandis/str_evandis_multi/playlist.m3u8 (Reason: Duplicate)
@@ -617,18 +601,14 @@ URL: https://cdn3.wowza.com/1/YW5wSWZiRGd2eFlU/bGV0aVBq/hls/live/playlist.m3u8 (
 URL: https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8 (Reason: Duplicate)
 URL: https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8 (Reason: Duplicate)
 URL: http://145.239.5.177/556a/index.m3u8 (Reason: Duplicate)
-URL: http://69.64.57.208/france2/mono.m3u8 (Reason: Duplicate)
 URL: http://85.14.32.26:8800/udp/239.100.10.144:5000 (Reason: Duplicate)
 URL: http://89.187.185.76:8080/France3/index.m3u8 (Reason: Duplicate)
 URL: http://5.180.164.197:8080/FRANCE3/index.m3u8 (Reason: Duplicate)
 URL: http://176.65.146.100:8047/play/a074/index.m3u8 (Reason: Duplicate)
 URL: https://sv1.data-stream.top/8c0a287e56a6e1843143904778be3775b4d3edd4fba4ffcc3f72638c7a71d4d4/hls/francetv4.m3u8 (Reason: Duplicate)
-URL: http://69.64.57.208/france5/mono.m3u8 (Reason: Duplicate)
+URL: http://145.239.5.177/305/index.m3u8 (Reason: Duplicate)
 URL: https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8 (Reason: Duplicate)
-URL: https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/franceinter.m3u8 (Reason: Duplicate)
-URL: https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/franceinfotv.m3u8 (Reason: Duplicate)
 URL: https://5421175365ea3.streamlock.net/live/smil:switch.smil/playlist.m3u8 (Reason: Duplicate)
-URL: https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/funradiofr.m3u8 (Reason: Duplicate)
 URL: https://funradiovisionhd.vedge.infomaniak.com/livecast/ik:funradiovisionhd/manifest.m3u8 (Reason: Duplicate)
 URL: https://event.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8 (Reason: Duplicate)
 URL: https://amg01596-gongnetworks-gong-ono-vh5f2.amagi.tv/1080p-vtt/index.m3u8 (Reason: Duplicate)
@@ -655,17 +635,13 @@ URL: https://jmp2.uk/plu-60549e98061b5f000776866a.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-6683cd2fca74680008772545.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-65ccd26060eb870008db95fc.m3u8 (Reason: Duplicate)
 URL: https://foxkidstv.be:3369/stream/play.m3u8 (Reason: Duplicate)
-URL: https://jmp2.uk/plu-6304f20c941c5d00089634e7.m3u8 (Reason: Duplicate)
-URL: https://edge21.vedge.infomaniak.com/livecast/ik:livesd2/manifest.m3u8 (Reason: Duplicate)
 URL: https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/fdd6f243-f971-4a1a-9510-97ac01d6b37f/manifest.m3u8 (Reason: Duplicate)
 URL: http://145.239.5.177/354/index.m3u8 (Reason: Duplicate)
-URL: https://dshn8inoshngm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gac2i63dmu8b7/LEquipe_FR.m3u8 (Reason: Duplicate)
 URL: http://145.239.5.177/330/index.m3u8 (Reason: Duplicate)
-URL: http://193.111.198.85:8589/stream/mstv/rtbflaunelive26/master.m3u8?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg (Reason: Duplicate)
-URL: http://151.80.18.177:86/LCI_HD/index.m3u8 (Reason: Duplicate)
+URL: http://145.239.5.177/329/index.m3u8 (Reason: Duplicate)
+URL: http://145.239.5.177/368/index.m3u8 (Reason: Duplicate)
 URL: https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8 (Reason: Duplicate)
 URL: https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8 (Reason: Duplicate)
-URL: https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/lemedia.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-60549c238c3f21000753d3e0.m3u8 (Reason: Duplicate)
 URL: https://temp3.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8 (Reason: Duplicate)
 URL: http://livevideo.infomaniak.com/streaming/livecast/naxoo/playlist.m3u8 (Reason: Duplicate)
@@ -673,37 +649,27 @@ URL: https://jmp2.uk/plu-60afae68a7fc50000737186d.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-60549d97cd7b090007c73314.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-5f8edb6df1ebb800072edf10.m3u8 (Reason: Duplicate)
 URL: https://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8 (Reason: Duplicate)
-URL: https://live-ln24.digiteka.com/1911668011/index.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-5f8ed6d569d2d4000864a976.m3u8 (Reason: Duplicate)
-URL: https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/lyoncapitale.m3u8 (Reason: Duplicate)
 URL: http://99.27.51.147:8080/M6/index.m3u8 (Reason: Duplicate)
 URL: http://145.239.5.177/320/index.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-6245ccd0c6cdb800074632e4.m3u8 (Reason: Duplicate)
-URL: https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/maisonettravaux.m3u8 (Reason: Duplicate)
 URL: https://live.matele.be/hls/live.m3u8 (Reason: Duplicate)
 URL: https://cdn.katapy.io/cache/stream/katapytv/dieu/playlist.m3u8 (Reason: Duplicate)
-URL: http://rjcf.ofztvxv.top:8080/kang/71267133/99554 (Reason: Duplicate)
 URL: http://89.33.29.118/MCM/index.m3u8 (Reason: Duplicate)
 URL: http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8 (Reason: Duplicate)
-URL: https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/radiokaraoke.m3u8 (Reason: Duplicate)
-URL: https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/mensuptv.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-6671b21ffc3a46000857fe75.m3u8 (Reason: Duplicate)
 URL: http://live.greektv.ca/hls1/greektv.m3u8 (Reason: Duplicate)
-URL: https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/mouv.m3u8 (Reason: Duplicate)
-URL: http://41.205.70.146/MTVFRANCE/index.m3u8 (Reason: Duplicate)
+URL: http://99.27.51.147:8080/MTV/index.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-5f92b56a367e170007cd43f4.m3u8 (Reason: Duplicate)
 URL: https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtv-eng-samsungit/playlist.m3u8 (Reason: Duplicate)
-URL: https://streamtv.cmediahosthosting.net:3046/live/mygospeltvlive.m3u8 (Reason: Duplicate)
 URL: https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8 (Reason: Duplicate)
 URL: https://bamusa-naturetime-emea-fra-rakuten.amagi.tv/playlist.m3u8 (Reason: Duplicate)
 URL: http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8 (Reason: Duplicate)
 URL: http://145.239.5.177/148/index.m3u8 (Reason: Duplicate)
-URL: https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/novo-comedy/video.m3u8?ads.vf=CMRSFvusYbe (Reason: Duplicate)
 URL: https://test.946985.filegear-sg.me/proxy/a23981548880f405 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-6380c94947c72b0007ee9a13.m3u8 (Reason: Duplicate)
 URL: https://vdo2.pro-fhi.net:3207/stream/play.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-66b4990746762a00084c2f78.m3u8 (Reason: Duplicate)
-URL: https://jmp2.uk/plu-66b498bc14a2bb00086965bc.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-60925a44f0350600075a1fdc.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-691b3669c48674840c3b832a.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-611e7811eb9daf000764cbfd.m3u8 (Reason: Duplicate)
@@ -712,7 +678,6 @@ URL: https://jmp2.uk/plu-5f8eb91bb9b9e7000817e67f.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-67b4b2d976a934282e92d71c.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-5f8ed48146ba9e00078424b6.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-682318568e6c0f2f6c6e0038.m3u8 (Reason: Duplicate)
-URL: https://jmp2.uk/plu-69c2ae0d1f1accd54916c825.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-62f3e0522443200008c567d7.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-611e771e2f5f180007002224.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-5f8ed3892ed7bb000741a1d2.m3u8 (Reason: Duplicate)
@@ -729,24 +694,19 @@ URL: https://jmp2.uk/plu-652557d93fd33c000802f995.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-5f8eb99ff17815000784a3b0.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-699865ccac36b147e74619fe.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-5f8eba14a4ffb8000764e950.m3u8 (Reason: Duplicate)
-URL: https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/publicsenat.m3u8 (Reason: Duplicate)
 URL: https://event.vedge.infomaniak.com/livecast/ik:puissancetelevision/manifest.m3u8 (Reason: Duplicate)
 URL: https://tvlocales-live.freecaster.com/rtc/95d2f6ec-22f7-4027-b23d-d5372116b2ad/95d2f6ec-22f7-4027-b23d-d5372116b2ad.isml/master.m3u8 (Reason: Duplicate)
 URL: https://contact-live-hls.akamaized.net/hls/live/2038650/CONTACT-Live-HLS/master.m3u8 (Reason: Duplicate)
-URL: https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/radiofrontieres.m3u8 (Reason: Duplicate)
-URL: https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/radiokaraoke-2.m3u8 (Reason: Duplicate)
 URL: https://5790d294af2dc.streamlock.net/8124/8124/chunklist.m3u8 (Reason: Duplicate)
-URL: https://s.viks.tv/204/index.m3u8 (Reason: Duplicate)
+URL: http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/1038/index.m3u8 (Reason: Duplicate)
 URL: https://edge14.vedge.infomaniak.com/livecast/ik:rhonetv/manifest.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-5f8eb8a8b2619a000710605c.m3u8 (Reason: Duplicate)
 URL: http://145.239.5.177/333/index.m3u8 (Reason: Duplicate)
 URL: https://d15aro46bnpfm8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fqkqiax1078up/RMC_Story_FR.m3u8 (Reason: Duplicate)
 URL: https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8 (Reason: Duplicate)
-URL: https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/rtl2.m3u8 (Reason: Duplicate)
 URL: http://145.239.5.177/308/index.m3u8 (Reason: Duplicate)
 URL: https://7nyaler.streamhostingcdn.top/stream/65/index.m3u8 (Reason: Duplicate)
 URL: https://tvi-live-hls.akamaized.net/hls/live/2038650/TVI-Live-HLS/master.m3u8 (Reason: Duplicate)
-URL: http://41.205.70.146/RTSUN/index.m3u8 (Reason: Duplicate)
 URL: https://rtsinfo-d.akamaized.net/out/v1/2b7ae2e1ba3f43c6aba15bced153baf5/index.m3u8 (Reason: Duplicate)
 URL: http://41.205.93.154/SYFY/index.m3u8 (Reason: Duplicate)
 URL: http://145.239.5.177/355/index.m3u8 (Reason: Duplicate)
@@ -755,17 +715,12 @@ URL: https://06cb85ad6ccb4a6b97f561e62d16ad3f.mediatailor.us-west-2.amazonaws.co
 URL: https://49d735318d6b4c30a24a7997ea594e1b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-820-FR-SONYONEFAVORIS-LG_FR/playlist.m3u8 (Reason: Duplicate)
 URL: https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-817-FR-SONYONEHITSACTION-LG_FR/playlist.m3u8 (Reason: Duplicate)
 URL: https://7aa9671895264ec9a384dfed1b992171.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-818-FR-SONYONEHITSCOMDIE-LG_FR/playlist.m3u8 (Reason: Duplicate)
-URL: https://4f2a3e1ff5274297b115cf0f7da1c2cd.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-819-FR-SONYONESRIESCOMDIE-LG_FR/playlist.m3u8 (Reason: Duplicate)
-URL: https://483a1e90c18641c9a6d27becd41ad892.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-821-FR-SONYONESRIESTHRILLER-LG_FR/playlist.m3u8 (Reason: Duplicate)
-URL: https://jmp2.uk/plu-67b4b3c51a5ca760802cc1c7.m3u8 (Reason: Duplicate)
 URL: https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8 (Reason: Duplicate)
-URL: https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/sudradio.m3u8 (Reason: Duplicate)
 URL: http://99.27.51.147:8080/SYFY/index.m3u8 (Reason: Duplicate)
 URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/t18-dm.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-62f3f05505e621000783df2f.m3u8 (Reason: Duplicate)
 URL: https://videas.agglo-lenslievin.fr/index.m3u8 (Reason: Duplicate)
 URL: https://tvlocales-live.freecaster.com/telemb/95d2f6ca-817a-48c0-aba5-6323a621c2d6/95d2f6ca-817a-48c0-aba5-6323a621c2d6.isml/master.m3u8 (Reason: Duplicate)
-URL: https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/telenantes.m3u8 (Reason: Duplicate)
 URL: https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/2f00284b/index.m3u8 (Reason: Duplicate)
 URL: http://145.239.5.177/356/index.m3u8 (Reason: Duplicate)
 URL: https://futbol9865.ultratv13.workers.dev/deportivo111/24.m3u8 (Reason: Duplicate)
@@ -800,9 +755,11 @@ URL: http://23.133.220.149/TV5/index.m3u8 (Reason: Duplicate)
 URL: http://23.133.220.149/Unis_TV/index.m3u8 (Reason: Duplicate)
 URL: https://tv7.live-kd.com/live/tv7/livestream/playlist.m3u8 (Reason: Duplicate)
 URL: https://streamtv.cdn.dvmr.fr/TV78/ngrp:tv78.stream_all/master.m3u8 (Reason: Duplicate)
+URL: http://194.163.157.137:8080/hls/radioalsace.m3u8 (Reason: Duplicate)
 URL: http://145.239.5.177/318/index.m3u8 (Reason: Duplicate)
 URL: https://tvlocales-live.freecaster.com/tvlux/95d2f632-0780-4ac1-9895-9e50212dd3b6/95d2f632-0780-4ac1-9895-9e50212dd3b6.isml/master.m3u8 (Reason: Duplicate)
 URL: https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/master.m3u8 (Reason: Duplicate)
+URL: http://194.163.157.137:8080/hls/radiomulhouse.m3u8 (Reason: Duplicate)
 URL: https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8 (Reason: Duplicate)
 URL: https://tvlocales-live.freecaster.com/tvcom/95d2f656-ba85-4e13-affc-f1936be1a86d/95d2f656-ba85-4e13-affc-f1936be1a86d.isml/master.m3u8 (Reason: Duplicate)
 URL: https://cache1a.netplus.ch/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY4MTg5NzQyIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy90dm0zL2Jyb3dzZXItSExTOC8iLCJzZXNzaW9uX2Nkbl9pZCI6IjNhZmJlZTIxMmU1NjUyODEiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzEwLjAuMjI5LjE5Iiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiI1MyIsInNvdXJjZXMiOls0OF19.N29uj_Xo3YmdQUboW5e45wx4lUey-utXtC6RpbbCGgJ8uCl2ngejd8tu_S-3tv7s02OtkHo4Rkf7mitOx_7lcA==/live/eds/tvm3/browser-HLS8/tvm3.m3u8 (Reason: Duplicate)
@@ -816,7 +773,6 @@ URL: https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8 (Reason: 
 URL: https://jmp2.uk/plu-680291e38e1ff89c2427aefd.m3u8 (Reason: Duplicate)
 URL: https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-w9/cmaf_q2hyb21h/hls-short-hd.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-635659445b4c4700076d2ad1.m3u8 (Reason: Duplicate)
-URL: https://jmp2.uk/plu-60b4d6c806ad2a00073b3108.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-612e044c970e6f00083bcf3b.m3u8 (Reason: Duplicate)
 URL: https://7689426c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1mcl9aZWVNYWdpY19ITFM/playlist.m3u8 (Reason: Duplicate)
 URL: https://live.azenagroup.com/zenith/index.ll.m3u8 (Reason: Duplicate)
@@ -827,20 +783,17 @@ URL: https://d20oth1416y9a1.cloudfront.net/playlist/amg00711-zylofast-frequencen
 URL: https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist.m3u8 (Reason: Duplicate)
 URL: https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/rakutenAA-zylo-screamin-rakuten/playlist.m3u8 (Reason: Duplicate)
 
---- From Source: https://iptv-org.github.io/iptv/index.m3u (1069 skipped) ---
+--- From Source: https://iptv-org.github.io/iptv/index.m3u (949 skipped) ---
 URL: https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8 (Reason: Duplicate)
 URL: https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8 (Reason: Duplicate)
-URL: http://69.64.57.208/2stv/playlist.m3u8 (Reason: Duplicate)
 URL: https://3abn.bozztv.com/3abncanada/3ABN/master.m3u8 (Reason: Duplicate)
 URL: https://3abn.bozztv.com/3abn2/Fre_live/smil:Fre_live.smil/playlist.m3u8 (Reason: Duplicate)
 URL: https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8 (Reason: Duplicate)
-URL: http://tvsen5.aynascope.net/4KidsTV/index.m3u8 (Reason: Duplicate)
 URL: http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8 (Reason: Duplicate)
 URL: http://145.239.5.177/314/index.m3u8 (Reason: Duplicate)
 URL: https://video1.getstreamhosting.com:1936/8042/8042/playlist.m3u8 (Reason: Duplicate)
 URL: https://live-20minutestv.digiteka.com/1961167769/index.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-62e925bc68d18a00077bb990.m3u8 (Reason: Duplicate)
-URL: https://amg02162-newenconnect-amg02162c2-rakuten-us-1981.playouts.now.amagi.tv/playlist/amg02162-newenconnect-100pour100docs-rakutenus/playlist.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-65a67dd13af63d0008257f17.m3u8 (Reason: Duplicate)
 URL: https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8 (Reason: Duplicate)
 URL: https://stream.sen-gt.com/A2iNaija/myStream/playlist.m3u8 (Reason: Duplicate)
@@ -850,17 +803,16 @@ URL: https://video1.getstreamhosting.com:1936/8250/8250/manifest.m3u8 (Reason: D
 URL: http://23.239.31.26:8989/aande/index.m3u8 (Reason: Duplicate)
 URL: http://145.239.5.177/332/index.m3u8 (Reason: Duplicate)
 URL: https://ssh101stream.ssh101.com/akamaissh101/ssh101/actvstream/playlist.m3u8 (Reason: Duplicate)
-URL: https://streamtv.acerfi.net/hls/acerfitv/index.m3u8 (Reason: Duplicate)
 URL: https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/4db788c7/index.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-64bab8ba5dc1660008969b5a.m3u8 (Reason: Duplicate)
 URL: https://d3b73b34o7cvkq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gz2sgqzp076kf/adn.m3u8 (Reason: Duplicate)
 URL: https://strhls.streamakaci.tv/ortb/ortb2-multi/playlist.m3u8 (Reason: Duplicate)
+URL: srt://105.113.54.98:4001 (Reason: Invalid/Non-HTTP)
 URL: https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/playlist.m3u8 (Reason: Duplicate)
 URL: https://live.relentlessinnovations.net:1936/afghannobeltv/afghannobeltv/playlist.m3u8 (Reason: Duplicate)
 URL: https://africa24.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8 (Reason: Duplicate)
 URL: https://edge20.vedge.infomaniak.com/livecast/ik:africa24english/manifest.m3u8 (Reason: Duplicate)
 URL: https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8 (Reason: Duplicate)
-URL: http://69.64.57.208/africable/playlist.m3u8 (Reason: Duplicate)
 URL: https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8 (Reason: Duplicate)
 URL: https://kali.vdopanel.com:3119/hybrid/play.m3u8 (Reason: Duplicate)
 URL: https://video1.getstreamhosting.com:1936/8318/8318/playlist.m3u8 (Reason: Duplicate)
@@ -878,11 +830,9 @@ URL: https://goccn.cloud/hls/amanitv/index.m3u8 (Reason: Duplicate)
 URL: https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-68679fc6bb46d0bdd38ac9a4.m3u8 (Reason: Duplicate)
 URL: http://mkstream.servehttp.com:1940/AmouYazid/ay1/playlist.m3u8 (Reason: Duplicate)
-URL: https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/angerstele.m3u8 (Reason: Duplicate)
 URL: https://pb-ioe9d0fpkd6pp.akamaized.net/playlist.m3u8 (Reason: Duplicate)
 URL: http://51.254.199.122:8080/antenne_a-plus/index.m3u8 (Reason: Duplicate)
 URL: https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01 (Reason: Duplicate)
-URL: https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/arabel.m3u8 (Reason: Duplicate)
 URL: http://145.239.5.177/300/index.m3u8 (Reason: Duplicate)
 URL: https://live.zendzend.com/mpegts/29375_107244/media_mpegts_0.m3u8 (Reason: Duplicate)
 URL: https://guineetvdirect.online:3320/live/atvguineelive.m3u8 (Reason: Duplicate)
@@ -893,7 +843,6 @@ URL: https://jmp2.uk/plu-62bc1784120ba80007935aaa.m3u8 (Reason: Duplicate)
 URL: https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/main.m3u8 (Reason: Duplicate)
 URL: https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8 (Reason: Duplicate)
 URL: https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8 (Reason: Duplicate)
-URL: https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/bsmart.m3u8 (Reason: Duplicate)
 URL: https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8 (Reason: Duplicate)
 URL: https://belafrikamediatv.vedge.infomaniak.com/livecast/ik:belafrikamediatv/manifest.m3u8 (Reason: Duplicate)
 URL: https://amg00627-amg00627c31-rakuten-fr-3991.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanfrcc-rakutenfr/playlist.m3u8 (Reason: Duplicate)
@@ -934,23 +883,18 @@ URL: https://jmp2.uk/plu-66166989635c7500084105a2.m3u8 (Reason: Duplicate)
 URL: http://51.254.199.122:8080/bossbrothersTV/index.m3u8 (Reason: Duplicate)
 URL: https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/e1ccc6aa/index.m3u8 (Reason: Duplicate)
 URL: https://video1.getstreamhosting.com:1936/8212/8212/playlist.m3u8 (Reason: Duplicate)
-URL: https://lagenceducourtmetrage-brefcinema-01-eu.rakuten.wurl.tv/playlist.m3u8 (Reason: Duplicate)
 URL: https://stream2.mandarine.media/brionnaistv/brionnaistv/playlist.m3u8 (Reason: Duplicate)
 URL: https://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n5YY.smil/playlist.m3u8 (Reason: Duplicate)
-URL: http://69.64.57.208/burkinainfo/index.m3u8 (Reason: Duplicate)
 URL: https://59959724487e3.streamlock.net/stream/live/playlist.m3u8 (Reason: Duplicate)
 URL: https://2-fss-2.streamhoster.com/pl_120/206508-3261972-1/playlist.m3u8 (Reason: Duplicate)
 URL: http://145.239.5.177/361/index.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-63b579961bdba100071214cb.m3u8 (Reason: Duplicate)
-URL: https://flowcaster1-ch.cdn.clearcable.net/C14/smil:C14.smil/playlist.m3u8?iimae0UC2aendtime=1665196120&iimae0UC2ahash=NzcDbuotaJAVf1DsNxuGHBlfCXSvHDIt5sqMUMgrRMU=&iimae0UC2astarttime=1665181720 (Reason: Duplicate)
 URL: https://do7nccdsswstc.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1aso0bc668saa/a5233c83-f772-4a81-959a-45ec7877ef61/5.m3u8 (Reason: Duplicate)
 URL: https://stream.it-innov.com/cam10tv/index.m3u8 (Reason: Duplicate)
 URL: http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8 (Reason: Duplicate)
 URL: https://5caf24a595d94.streamlock.net:1937/pvyugfkzkc/pvyugfkzkc/playlist.m3u8 (Reason: Duplicate)
-URL: http://69.64.57.208/canal2international/playlist.m3u8 (Reason: Duplicate)
 URL: https://cs2.push2stream.com/CANAL3BENIN/playlist.m3u8 (Reason: Duplicate)
 URL: https://livehd.vedge.infomaniak.com/livecast/livehd/master.m3u8 (Reason: Duplicate)
-URL: https://event.vedge.infomaniak.com/livecast/ik:canal32_4/manifest.m3u8 (Reason: Duplicate)
 URL: https://canalalphaju.vedge.infomaniak.com/livecast/ik:canalalphaju/playlist.m3u8 (Reason: Duplicate)
 URL: https://canalalpha.vedge.infomaniak.com/livecast/ik:canalalpha/playlist.m3u8 (Reason: Duplicate)
 URL: https://hls.savoir.media/live/stream.m3u8 (Reason: Duplicate)
@@ -959,7 +903,7 @@ URL: http://151.80.18.177:86/Canal+_cinema_HD/index.m3u8 (Reason: Duplicate)
 URL: https://futbol9865.ultratv13.workers.dev/deportivo111/14.m3u8 (Reason: Duplicate)
 URL: https://vdo2.pro-fhi.net:3628/live/uppodsfqlive.m3u8 (Reason: Duplicate)
 URL: http://145.239.5.177/359a/index.m3u8 (Reason: Duplicate)
-URL: https://edge13.vedge.infomaniak.com/livecast/ik:event/manifest.m3u8 (Reason: Duplicate)
+URL: http://145.239.5.177/371/index.m3u8 (Reason: Duplicate)
 URL: https://onefmhd.vedge.infomaniak.com/livecast/ik:onefmhd/manifest.m3u8 (Reason: Duplicate)
 URL: https://lfmhd.vedge.infomaniak.com/livecast/lfmhd/playlist.m3u8 (Reason: Duplicate)
 URL: https://edge17.vedge.infomaniak.com/livecast/ik:compack_media_1/playlist.m3u8 (Reason: Duplicate)
@@ -982,12 +926,9 @@ URL: https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/ma
 URL: https://cbcrclinear-tor.akamaized.net/hls/live/2042768/CBCRCLINEAR_TOR_14/master5.m3u8 (Reason: Duplicate)
 URL: https://cbcrclinear-tor.akamaized.net/hls/live/2042759/CBCRCLINEAR_TOR_5/master5.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-5d4947590ba40f75dc29c26b.m3u8 (Reason: Duplicate)
-URL: https://tnt-television.com/CCPV-TV/index.m3u8 (Reason: Duplicate)
-URL: https://strhlslb01.streamakaci.tv/cen/cen-multi/playlist.m3u8 (Reason: Duplicate)
 URL: http://stream.cammonitorplus.net/1712/index.m3u8 (Reason: Duplicate)
 URL: http://145.239.5.177/214/index.m3u8 (Reason: Duplicate)
 URL: https://endour.net/hls/RUgLAPCbPdF5oPSTX2Hvl/index.m3u8 (Reason: Duplicate)
-URL: https://media02.webtvlive.eu/chd-edge/smil:chamber_tv_hd.smil/playlist.m3u8 (Reason: Duplicate)
 URL: https://stream.berosat.live/hls/champion-tv/champion-tv.m3u8 (Reason: Duplicate)
 URL: https://kali.vdopanel.com:3660/live/vj6jlam1rlive.m3u8 (Reason: Duplicate)
 URL: http://cdn19.live247stream.com/channely/tv/playlist.m3u8 (Reason: Duplicate)
@@ -997,7 +938,6 @@ URL: https://temp4.isilive.ca/live/CHCOTV/live/index.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-611e7f224676bf00076a4d8d.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-65cce14060eb870008dbd003.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-62bdb7f0db2eb30007376d4d.m3u8 (Reason: Duplicate)
-URL: http://69.64.57.208/cherifla/playlist.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-6823648580b2665220d9e69a.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-5f8ed1ff5c39700007e2204a.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-5f8ed0f17564a300082b676a.m3u8 (Reason: Duplicate)
@@ -1025,7 +965,6 @@ URL: https://jmp2.uk/plu-66c45b36a72e7b0008a2b291.m3u8 (Reason: Duplicate)
 URL: https://media1.radioservers.biz:1936/cnv/cnv/playlist.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-64f8a408bd341e000818fcda.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-60c716084d842c00085f6e64.m3u8 (Reason: Duplicate)
-URL: https://tnt-television.com/COMPASSION_FM/index.m3u8 (Reason: Duplicate)
 URL: https://radio.congoplanet.com/Congo_Planet_TV.sdp/Congo_Planet_TV/playlist.m3u8 (Reason: Duplicate)
 URL: http://185.246.209.113/CottageLife/index.m3u8 (Reason: Duplicate)
 URL: https://visualradio-rts-couleur3-d.akamaized.net/out/v1/6a1472634ad745f59a9e63ee8adbbc00/index.m3u8 (Reason: Duplicate)
@@ -1037,20 +976,17 @@ URL: https://live1.acangroup.org:1929/publiclive/crtv_news/playlist.m3u8 (Reason
 URL: rtmp://59.124.75.138:1935/sat/tv111 (Reason: Invalid/Non-HTTP)
 URL: http://stream.cammonitorplus.net/1731/index.m3u8 (Reason: Duplicate)
 URL: http://185.246.209.113/ANIMALPLANETHD/index.m3u8 (Reason: Duplicate)
-URL: https://gpuserver3.tier1streams.com/DISCOVERY_SCIENCE_HD/index.m3u8 (Reason: Duplicate)
-URL: https://live20.bozztv.com/akamaissh101/ssh101/d3tvnet/playlist.m3u8 (Reason: Duplicate)
+URL: https://lbgo.bozztv.com/ssh101/ssh101/d3tvnet/playlist.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-6683b680efa2a10008e8a393.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-69aadc5551df9542f2521e1a.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-64d626ac9b414d000820e2fc.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-64b67f0424ade50008a3be17.m3u8 (Reason: Duplicate)
-URL: https://jmp2.uk/plu-6683f7fe36a2f9000804940c.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-64afe50c5dc16600087f3227.m3u8 (Reason: Duplicate)
 URL: https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8 (Reason: Duplicate)
 URL: https://59d39900ebfb8.streamlock.net/saintlouisltv/saintlouisltv/playlist.m3u8 (Reason: Duplicate)
 URL: https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8 (Reason: Duplicate)
 URL: https://deshitv.deshitv24.net/live/myStream/playlist.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-62f3e8ad2a8e8000077b013d.m3u8 (Reason: Duplicate)
-URL: https://jmp2.uk/plu-65fd548f29adfd00089c662c.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-6671b26836a2f90008d9333c.m3u8 (Reason: Duplicate)
 URL: https://vdo3.pro-fhi.net:3218/stream/play.m3u8 (Reason: Duplicate)
 URL: https://bild-und-ton.stream/die-neue-zeit-tv-live/smil:dnz-de.smil/playlist.m3u8 (Reason: Duplicate)
@@ -1058,8 +994,6 @@ URL: https://jmp2.uk/plu-617bae1d69bca3000729561e.m3u8 (Reason: Duplicate)
 URL: http://51.254.199.122:8080/DigitalCongoTV/index.m3u8 (Reason: Duplicate)
 URL: http://86.87.15.10:8004/play/a02g/index.m3u8 (Reason: Duplicate)
 URL: http://151.80.18.177:86/Disney_Junior_HD/index.m3u8 (Reason: Duplicate)
-URL: https://voozmedia.fun/divinamourtv/livestream/playlist.m3u8 (Reason: Duplicate)
-URL: https://tv.num221tech.com:5443/LiveApp/streams/dntv.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-62e922f6675f71000736db3b.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-62e951258a26d40007b3034c.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-68b17414c23bb80b3c1d5bb5.m3u8 (Reason: Duplicate)
@@ -1067,12 +1001,10 @@ URL: https://jmp2.uk/plu-5f8edad922b10b000753bc37.m3u8 (Reason: Duplicate)
 URL: https://live20.bozztv.com/dvrfl06/astv/astv-douniatv/index.m3u8 (Reason: Duplicate)
 URL: https://3d46w.doyeltv.com/memfs/aa3aa6f7-ec12-41a2-8183-a891e157bbf8.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-65a67c494a10d800085cab06.m3u8 (Reason: Duplicate)
-URL: https://dritatv.protokolldns.xyz/dritaweb5587989/index.m3u8 (Reason: Duplicate)
 URL: https://amg01796-amg01796c2-rakuten-uk-3887.playouts.now.amagi.tv/playlist.m3u8 (Reason: Duplicate)
 URL: https://vps122407.serveur-vps.net/hls/drtv.m3u8 (Reason: Duplicate)
 URL: http://cdn12.henico.net:8080/live/dncal/index.m3u8 (Reason: Duplicate)
 URL: https://ssh101stream.ssh101.com/akamaissh101/ssh101/tvdynamicstream/playlist.m3u8 (Reason: Duplicate)
-URL: https://jmp2.uk/plu-62e919ca865c590007ecd0bd.m3u8 (Reason: Duplicate)
 URL: https://streamer12.vdn.dstreamone.net/saazoawaz/saazoawaz/playlist.m3u8 (Reason: Duplicate)
 URL: https://streams.prd.commavservices.eu/live/ebs/index.m3u8 (Reason: Duplicate)
 URL: https://streams.prd.commavservices.eu/live/ebsplus/index.m3u8 (Reason: Duplicate)
@@ -1080,14 +1012,10 @@ URL: https://video1.getstreamhosting.com:1936/8294/8294/playlist.m3u8 (Reason: D
 URL: https://jmp2.uk/plu-63b578b524f0cf00072f2a52.m3u8 (Reason: Duplicate)
 URL: https://rtmp.edentv.bj/hls/stream.m3u8 (Reason: Duplicate)
 URL: https://eu.streamjo.com/eetlive/eettv.m3u8 (Reason: Duplicate)
-URL: https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/emciafrique.m3u8 (Reason: Duplicate)
-URL: https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/emciamerique.m3u8 (Reason: Duplicate)
-URL: https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/emcieurope.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-66f55d0b5e4a6e0008c2b920.m3u8 (Reason: Duplicate)
 URL: https://fastmedia-enquetesdechoc-rakuten.amagi.tv/playlist.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-63921a1bf76e7d0007c998a6.m3u8 (Reason: Duplicate)
 URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8 (Reason: Duplicate)
-URL: http://69.64.57.208/equinoxtv/playlist.m3u8 (Reason: Duplicate)
 URL: https://hls.erfanhalgheh.live/hls/stream.m3u8 (Reason: Duplicate)
 URL: https://stream.berosat.live/hls/esaie45-tv/esaie45-tv.m3u8 (Reason: Duplicate)
 URL: https://edge11.vedge.infomaniak.com/livecast/ik:espacetv/manifest.m3u8 (Reason: Duplicate)
@@ -1095,19 +1023,16 @@ URL: https://edge12.vedge.infomaniak.com/livecast/ik:etvgp/manifest.m3u8 (Reason
 URL: https://2f6c5bf4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c0ZyYW5jYWlzX0hMUw/playlist.m3u8 (Reason: Duplicate)
 URL: https://playtv4k.live/live/EVTELE/index.m3u8 (Reason: Duplicate)
 URL: https://evandis.streamakaci.tv/str_evandis_evandis/str_evandis_multi/playlist.m3u8 (Reason: Duplicate)
-URL: https://kali.vdopanel.com:3090/hybrid/play.m3u8 (Reason: Duplicate)
-URL: https://stream.berosat.live:19360/evi-tv/evi-tv.m3u8 (Reason: Duplicate)
+URL: https://kali.vdopanel.com:3788/hybrid/play.m3u8 (Reason: Duplicate)
 URL: https://cdn3.wowza.com/1/YW5wSWZiRGd2eFlU/bGV0aVBq/hls/live/playlist.m3u8 (Reason: Duplicate)
 URL: rtmp://89.28.25.122/live/tnt_md (Reason: Invalid/Non-HTTP)
 URL: https://stream.berosat.live/hls/exploits-tv/exploits-tv.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-662a622b5e2370000800f392.m3u8 (Reason: Duplicate)
-URL: http://tvsen5.aynascope.net/familyjr/index.m3u8 (Reason: Duplicate)
 URL: http://45.190.28.50/FASHION_TV_HD/index.m3u8 (Reason: Duplicate)
 URL: https://68f1accef2154d2195cae87dec183843.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_FashionTV/playlist.m3u8 (Reason: Duplicate)
 URL: https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8 (Reason: Duplicate)
 URL: https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=67c0c39764ad6f7dab07aa0b&AV_APPNAME=[ADS.APP_NAME]&AV_APPPKGNAME=[ADS.APP_BUNDLE]&AV_APPSTOREURL=[ADS.APP_STORE_URL]&AV_CCPA=[ADS.US_PRIVACY]&AV_CLIENT_SECTION=ftv_secrets&AV_CONSENT=[ADS.GDPR_CONSENT]&AV_CONTENT_CAT=IAB7&AV_CONTENT_CHANNEL=&AV_CONTENT_CONTEXT=&AV_CONTENT_EPISODE=&AV_CONTENT_GENRE=fashion+and+lifestyle&AV_CONTENT_ID=[ADS.VIDAA_ADS_CONTENTID]&AV_CONTENT_KEYWORDS=&AV_CONTENT_LANGUAGE=en&AV_CONTENT_LENGTH=&AV_CONTENT_NETWORK=&AV_CONTENT_PROVIDER=FTV&AV_CONTENT_RATING=R&AV_CONTENT_SEASON=&AV_CONTENT_SERIES=&AV_CONTENT_TITLE=&AV_CONTENT_URL=&AV_DNT=[ADS.DNT]&AV_GDPR=[ADS.GDPR]&AV_HEIGHT=[ADS.H]&AV_IDFA=[ADS.IFA]&AV_IFA_TYPE=[ADS.IFA_TYPE]&AV_LANGUAGE=[ADS.DEVICE_LANGUAGE]&AV_OSVERS=[ADS.DEVICE_OSV]&AV_RTB_DEVICE_TYPE=[ADS.DEVICE_TYPE]&AV_VAUTH=[ADS.VAUTH]&AV_WIDTH=[ADS.W]&Content_Id=[ADS.ADS_CONTENTID]&ads.vidaa_ads_param=1191723366&cb=[CACHEBUSTER]&content_channel_name=ftv+-fashiontv+Secrets&content_livestream=1 (Reason: Duplicate)
 URL: https://d21x3vavxu7p2x.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-FEVATV/416.m3u8?ads.vf=nn5CUAdOxVu (Reason: Duplicate)
-URL: https://59d39900ebfb8.streamlock.net/FIDELETV/FIDELETV/playlist.m3u8 (Reason: Duplicate)
 URL: https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8 (Reason: Duplicate)
 URL: https://4397879b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWRlX0ZJRkFQbHVzR2VybWFuX0hMUw/playlist.m3u8 (Reason: Duplicate)
 URL: https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8 (Reason: Duplicate)
@@ -1124,22 +1049,18 @@ URL: https://jmp2.uk/plu-66d71ff86b63480008cf15c5.m3u8 (Reason: Duplicate)
 URL: https://stream.fomixmedia.nl/FomixTV/video.m3u8 (Reason: Duplicate)
 URL: http://145.239.5.177/556a/index.m3u8 (Reason: Duplicate)
 URL: https://stream.az-multimedia.com:3325/live/foryoutvlive.m3u8 (Reason: Duplicate)
-URL: http://69.64.57.208/france2/mono.m3u8 (Reason: Duplicate)
 URL: http://85.14.32.26:8800/udp/239.100.10.144:5000 (Reason: Duplicate)
 URL: http://89.187.185.76:8080/France3/index.m3u8 (Reason: Duplicate)
 URL: http://5.180.164.197:8080/FRANCE3/index.m3u8 (Reason: Duplicate)
 URL: http://176.65.146.100:8047/play/a074/index.m3u8 (Reason: Duplicate)
 URL: https://sv1.data-stream.top/8c0a287e56a6e1843143904778be3775b4d3edd4fba4ffcc3f72638c7a71d4d4/hls/francetv4.m3u8 (Reason: Duplicate)
-URL: http://69.64.57.208/france5/mono.m3u8 (Reason: Duplicate)
+URL: http://145.239.5.177/305/index.m3u8 (Reason: Duplicate)
 URL: https://amg00106-amg00106c1-rakuten-uk-4654.playouts.now.amagi.tv/playlist/amg00106-france24fast-france24-rakutenuk/playlist.m3u8 (Reason: Duplicate)
 URL: https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8 (Reason: Duplicate)
-URL: https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/franceinter.m3u8 (Reason: Duplicate)
-URL: https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/franceinfotv.m3u8 (Reason: Duplicate)
 URL: https://5421175365ea3.streamlock.net/live/smil:switch.smil/playlist.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-62cebf042ffc6d0007c4e59a.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-62f4f90e39183b000769f12b.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-6790fa9e1cfc4aa96dfadcef.m3u8 (Reason: Duplicate)
-URL: https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/funradiofr.m3u8 (Reason: Duplicate)
 URL: https://funradiovisionhd.vedge.infomaniak.com/livecast/ik:funradiovisionhd/manifest.m3u8 (Reason: Duplicate)
 URL: https://edge20.vedge.infomaniak.com/livecast/ik:fusiontv/manifest.m3u8 (Reason: Duplicate)
 URL: https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8 (Reason: Duplicate)
@@ -1147,9 +1068,7 @@ URL: http://cdn6.live247stream.com/gaundapunjab/tv/playlist.m3u8 (Reason: Duplic
 URL: https://production-fastbpk.content.okast.tv/fa2e8c4385712f9aa35c5b79a2b4ac2d/channels/eec463a6-4364-473b-8d89-555acc5b8fb2/e36e4304-73ff-4f9f-8d38-e748576a1f51/media_.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-60afb203ec391c00070ea1bf.m3u8 (Reason: Duplicate)
 URL: https://event.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8 (Reason: Duplicate)
-URL: https://tnt-television.com/Geopolis_tv/index.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-6447dea7e94c380008dba94c.m3u8 (Reason: Duplicate)
-URL: https://stream.bozztv.com/tvstat-tamar/tvstat-tamar/playlist.m3u8 (Reason: Duplicate)
 URL: https://acasmedia6.acangroup.org/gmstv/gmstv_output/playlist.m3u8 (Reason: Duplicate)
 URL: https://6zklxkbbdw9b-hls-live.mariatvcdn.it/msmotor/2f759512164fc6fe4acbed6a5648993a.sdp/playlist.m3u8 (Reason: Duplicate)
 URL: https://gpuserver3.tier1streams.com/GOLF_CHANNEL/index.m3u8 (Reason: Duplicate)
@@ -1159,7 +1078,6 @@ URL: https://streamer12.vdn.dstreamone.net/carishowtime/showtime/chunks.m3u8 (Re
 URL: https://g2qd3exjy7an-hls-live.5centscdn.com/gtvghana/ghanaweb.stream/playlist.m3u8 (Reason: Duplicate)
 URL: https://video1.getstreamhosting.com:1936/8056/8056/playlist.m3u8 (Reason: Duplicate)
 URL: http://99.27.51.147:8080/Gulli/index.m3u8 (Reason: Duplicate)
-URL: https://jmp2.uk/plu-62e916affb29c60007211c8a.m3u8 (Reason: Duplicate)
 URL: http://cdn12.henico.net:8080/live/gsctv/index.m3u8 (Reason: Duplicate)
 URL: https://cdn.haititivi.com/website/haitinews/index.m3u8 (Reason: Duplicate)
 URL: https://tv.hamdardtv.com/hamdard/index.m3u8 (Reason: Duplicate)
@@ -1179,7 +1097,6 @@ URL: https://i24newsfrench-cdn.encoders.immergo.tv/master.m3u8 (Reason: Duplicat
 URL: https://jmp2.uk/plu-63a2f1dda0d69700078b7cba.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-5e8b580a233dc90007f0cb9d.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-5f8ecc7aa44d9c00081fca29.m3u8 (Reason: Duplicate)
-URL: https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/icielsass.m3u8 (Reason: Duplicate)
 URL: https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8 (Reason: Duplicate)
 URL: https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master.m3u8 (Reason: Duplicate)
 URL: https://rcavlive.akamaized.net/hls/live/704020/cancbxft/master.m3u8 (Reason: Duplicate)
@@ -1213,44 +1130,32 @@ URL: https://jmp2.uk/plu-6683cd2fca74680008772545.m3u8 (Reason: Duplicate)
 URL: https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/playlist/amg00861-terninternation-inwild-samsunguk/playlist.m3u8 (Reason: Duplicate)
 URL: https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv1/playlist.m3u8 (Reason: Duplicate)
 URL: https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv2/playlist.m3u8 (Reason: Duplicate)
-URL: https://ca1.buximedia.com/itv/afrobeats/tracks-v1a1/mono.m3u8 (Reason: Duplicate)
-URL: https://ca1.buximedia.com/itv/arabic/tracks-v1a1/mono.m3u8 (Reason: Duplicate)
-URL: https://ca1.buximedia.com/itv/indian/tracks-v1a1/mono.m3u8 (Reason: Duplicate)
-URL: https://ca1.buximedia.com/itv/latin/tracks-v1a1/mono.m3u8 (Reason: Duplicate)
 URL: https://amg00654-itv-amg00654c32-rakuten-fr-6134.playouts.now.amagi.tv/playlist/amg00654-itvstudiosfast-unvillagesfrancais-rakutenfr/playlist.m3u8 (Reason: Duplicate)
-URL: https://ca1.buximedia.com/itv/love2/tracks-v1a1/mono.m3u8 (Reason: Duplicate)
 URL: https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-65ccd26060eb870008db95fc.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-66a105f4a79dea0008aa5e0f.m3u8 (Reason: Duplicate)
 URL: https://foxkidstv.be:3369/stream/play.m3u8 (Reason: Duplicate)
 URL: https://dpp-streamlive-plain.medialaancdn.be/joe_kijklive/plain/hls_hd.m3u8 (Reason: Duplicate)
-URL: https://stream.berosat.live:19360/jos-tv-stream/jos-tv-stream.m3u8 (Reason: Duplicate)
-URL: https://jmp2.uk/plu-6304f20c941c5d00089634e7.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-60afa1508284e60007163c08.m3u8 (Reason: Duplicate)
-URL: https://guineetvdirect.online:3842/live/kabacktvlive.m3u8 (Reason: Duplicate)
 URL: https://video1.getstreamhosting.com:1936/8055/8055/playlist.m3u8 (Reason: Duplicate)
 URL: https://edge13.vedge.infomaniak.com/livecast/ik:kalactv/chunklist_w280736538.m3u8 (Reason: Duplicate)
-URL: https://edge21.vedge.infomaniak.com/livecast/ik:livesd2/manifest.m3u8 (Reason: Duplicate)
 URL: https://playtv4k.live/live/kassouatv/index.m3u8 (Reason: Duplicate)
 URL: http://197.243.19.131:1935/kc2/kc2/chunklist.m3u8 (Reason: Duplicate)
 URL: https://kemettv.cm/memfs/4e7fb105-9f92-4e8d-a7cd-09923f17a577.m3u8 (Reason: Duplicate)
 URL: https://amg07653-apmc-amg07653c9-samsung-us-8740.playouts.now.amagi.tv/playlist.m3u8 (Reason: Duplicate)
 URL: http://51.254.199.122:8080/kin24/index.m3u8 (Reason: Duplicate)
+URL: https://live.vrtcdn.be/groupb/live/9c429b62-e160-417a-b438-cdf985bcd352/live.isml/.m3u8 (Reason: Duplicate)
 URL: https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index.m3u8 (Reason: Duplicate)
 URL: https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/fdd6f243-f971-4a1a-9510-97ac01d6b37f/manifest.m3u8 (Reason: Duplicate)
 URL: http://145.239.5.177/354/index.m3u8 (Reason: Duplicate)
-URL: https://amg02162-newenconnect-amg02162c1-rakuten-us-1983.playouts.now.amagi.tv/playlist/amg02162-newenconnect-leffetpapillon-rakutenus/playlist.m3u8 (Reason: Duplicate)
-URL: https://dshn8inoshngm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gac2i63dmu8b7/LEquipe_FR.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-685a999bd33909bdd7d2fb1e.m3u8 (Reason: Duplicate)
 URL: http://145.239.5.177/330/index.m3u8 (Reason: Duplicate)
-URL: http://193.111.198.85:8589/stream/mstv/rtbflaunelive26/master.m3u8?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg (Reason: Duplicate)
-URL: https://webtv.lavoixduroutiertv.bj/hls/stream.m3u8 (Reason: Duplicate)
+URL: http://145.239.5.177/329/index.m3u8 (Reason: Duplicate)
 URL: https://streaming.lauradavemedia.com/ldm/index.m3u8 (Reason: Duplicate)
 URL: https://tnt-television.com/LBFD_RTV/index.m3u8 (Reason: Duplicate)
-URL: http://151.80.18.177:86/LCI_HD/index.m3u8 (Reason: Duplicate)
+URL: http://145.239.5.177/368/index.m3u8 (Reason: Duplicate)
 URL: https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8 (Reason: Duplicate)
 URL: https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8 (Reason: Duplicate)
-URL: https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/lemedia.m3u8 (Reason: Duplicate)
 URL: https://amg02393-awpg-amg02393c2-rakuten-uk-2464.playouts.now.amagi.tv/playlist/amg02393-awpg-lemeilleurdarthur-rakutenuk/playlist.m3u8 (Reason: Duplicate)
 URL: https://amg02393-awpg-amg02393c4-rakuten-uk-3886.playouts.now.amagi.tv/playlist/amg02393-awpg-lemeilleurdelatvrealite-rakutenuk/playlist.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-60549c238c3f21000753d3e0.m3u8 (Reason: Duplicate)
@@ -1270,11 +1175,9 @@ URL: https://jmp2.uk/plu-5f8edb6df1ebb800072edf10.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-65cce23bdc10a400080645ad.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-68b16d2282862c1f067dc763.m3u8 (Reason: Duplicate)
 URL: https://amg02393-awpg-amg02393c6-rakuten-uk-2460.playouts.now.amagi.tv/playlist/amg02393-awpg-lessecretsdenosregions-rakutenuk/playlist.m3u8 (Reason: Duplicate)
-URL: https://amg02393-awpg-amg02393c3-rakuten-uk-2462.playouts.now.amagi.tv/playlist/amg02393-awpg-leszamours-rakutenuk/playlist.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-652d0b756208700008d758ad.m3u8 (Reason: Duplicate)
 URL: https://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8 (Reason: Duplicate)
 URL: https://video1.getstreamhosting.com:1936/8282/8282/playlist.m3u8 (Reason: Duplicate)
-URL: https://live-ln24.digiteka.com/1911668011/index.m3u8 (Reason: Duplicate)
 URL: https://stream.berosat.live/hls/lollywood-hd/lollywood-hd.m3u8 (Reason: Duplicate)
 URL: https://stream.sen-gt.com/Mbacke/myStream/playlist.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-5f8ed6d569d2d4000864a976.m3u8 (Reason: Duplicate)
@@ -1282,12 +1185,10 @@ URL: https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/
 URL: https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8 (Reason: Duplicate)
 URL: https://amg01821-amg01821c12-rlaxx-gb-10461.playouts.now.amagi.tv/playlist.m3u8 (Reason: Duplicate)
 URL: http://103.154.3.101:5001/live/1736.m3u8 (Reason: Duplicate)
-URL: https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/lyoncapitale.m3u8 (Reason: Duplicate)
 URL: http://99.27.51.147:8080/M6/index.m3u8 (Reason: Duplicate)
 URL: http://145.239.5.177/320/index.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-6245ccd0c6cdb800074632e4.m3u8 (Reason: Duplicate)
 URL: https://edge12.vedge.infomaniak.com/livecast/ik:madrasfmtv/manifest.m3u8 (Reason: Duplicate)
-URL: https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/maisonettravaux.m3u8 (Reason: Duplicate)
 URL: https://w2.manasat.com/eglise-online/smil:eglise-online.smil/playlist.m3u8 (Reason: Duplicate)
 URL: https://live.matele.be/hls/live.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-63da365f60bc8f0008a50f44.m3u8 (Reason: Duplicate)
@@ -1295,21 +1196,17 @@ URL: https://jmp2.uk/plu-686e74b0e48af72bc266e798.m3u8 (Reason: Duplicate)
 URL: https://cdn.katapy.io/cache/stream/katapytv/dieu/playlist.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-686e74c777ed3360cb6908bf.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-66c6fcfc6838ee00085beb1a.m3u8 (Reason: Duplicate)
-URL: http://rjcf.ofztvxv.top:8080/kang/71267133/99554 (Reason: Duplicate)
 URL: http://89.33.29.118/MCM/index.m3u8 (Reason: Duplicate)
 URL: http://46.32.176.50/mcmtop/index.m3u8 (Reason: Duplicate)
 URL: http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8 (Reason: Duplicate)
 URL: https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-afrique_tm7tu45/playlist.m3u8 (Reason: Duplicate)
 URL: https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-maghreb_jnbspmg/playlist.m3u8 (Reason: Duplicate)
-URL: https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/radiokaraoke.m3u8 (Reason: Duplicate)
-URL: https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/mensuptv.m3u8 (Reason: Duplicate)
 URL: https://streaming.meteonews.net/hls/stream.m3u8 (Reason: Duplicate)
 URL: https://live-3.otcnet.ru/Mezzo/index.m3u8 (Reason: Duplicate)
 URL: http://stream.mcquack.net/276/index.m3u8 (Reason: Duplicate)
 URL: https://mhz-samsung-linear-ca.samsung.wurl.tv/playlist.m3u8 (Reason: Duplicate)
 URL: http://51.254.199.122:8080/MIKUBATV/index.m3u8 (Reason: Duplicate)
 URL: https://strhlslb01.streamakaci.tv/str_mtv_mtv/str_mtv_multi/playlist.m3u8 (Reason: Duplicate)
-URL: https://tnt-television.com/MISHAPI-STREAM1/index.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-634fe5afece2e60007c9d8b8.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-6671b21ffc3a46000857fe75.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-62ea43aa0c43540007f2db96.m3u8 (Reason: Duplicate)
@@ -1322,15 +1219,13 @@ URL: https://jmp2.uk/plu-62e91c3add66e00007eeb24c.m3u8 (Reason: Duplicate)
 URL: https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8 (Reason: Duplicate)
 URL: https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/7b971242-c5fe-11ec-967f-401ac48a6867/0/master.m3u8 (Reason: Duplicate)
 URL: https://rakutenaa-fastmedia-motuslachaine-rakuten-547u3.amagi.tv/playlist/rakutenAA-fastmedia-motuslachaine-rakuten/playlist.m3u8 (Reason: Duplicate)
-URL: https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/mouv.m3u8 (Reason: Duplicate)
-URL: https://jmp2.uk/plu-65a67d572fac9c000835eb3a.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-64a3d96f060e830008af6745.m3u8 (Reason: Duplicate)
 URL: https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8 (Reason: Duplicate)
 URL: https://chlivemta1.akamaized.net/hls/live/2008145/mta1/playlist.m3u8 (Reason: Duplicate)
 URL: https://chlivemta1.akamaized.net/hls/live/2008145/mta2/playlist.m3u8 (Reason: Duplicate)
 URL: https://chlivemta.akamaized.net/hls/live/2010555/mtaafrica1/playlist.m3u8 (Reason: Duplicate)
 URL: https://chlivemta.akamaized.net/hls/live/2010555/mtaafrica2/playlist.m3u8 (Reason: Duplicate)
-URL: http://41.205.70.146/MTVFRANCE/index.m3u8 (Reason: Duplicate)
+URL: http://99.27.51.147:8080/MTV/index.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-65410176770cf1000866bf31.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-5db6a697d5f34a000934cd13.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-5f92b56a367e170007cd43f4.m3u8 (Reason: Duplicate)
@@ -1344,11 +1239,9 @@ URL: https://jmp2.uk/plu-5f9847fd513250000728a9a5.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-64f9cccf110545000837912e.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-6541010f770cf1000866be98.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-5cffcf5686dfe15595fb3f56.m3u8 (Reason: Duplicate)
-URL: https://jmp2.uk/plu-5caf32c2a5068259a32320fc.m3u8 (Reason: Duplicate)
 URL: http://40.160.24.53/MUCH/index.m3u8 (Reason: Duplicate)
 URL: https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtv-eng-samsungit/playlist.m3u8 (Reason: Duplicate)
 URL: https://op-group1-densxvisionhd-1.dens.tv/h/h18/index.m3u8 (Reason: Duplicate)
-URL: https://streamtv.cmediahosthosting.net:3046/live/mygospeltvlive.m3u8 (Reason: Duplicate)
 URL: http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/playlist.m3u8 (Reason: Duplicate)
 URL: https://mytimemoviefrance-rakuten.amagi.tv/playlist.m3u8 (Reason: Duplicate)
 URL: https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8 (Reason: Duplicate)
@@ -1360,12 +1253,10 @@ URL: http://46.32.176.50/NationalGeographicHD/index.m3u8 (Reason: Duplicate)
 URL: http://broadcasttr.com:1935/naturaltv/bant1/playlist.m3u8 (Reason: Duplicate)
 URL: https://bamusa-naturetime-emea-fra-rakuten.amagi.tv/playlist.m3u8 (Reason: Duplicate)
 URL: https://a-cdn.klowdtv.com/live2/nautical_720p/playlist.m3u8 (Reason: Duplicate)
-URL: http://194.163.135.238:5080/WebRTCApp/streams/590264631485484547459082.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-62f4f5de1c100100075665ef.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-66a106c8a79dea0008aa5ef3.m3u8 (Reason: Duplicate)
 URL: https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8 (Reason: Duplicate)
 URL: https://watch.haitilive.net/naktvhd/index.m3u8 (Reason: Duplicate)
-URL: https://eu1.vectromdigital.com:1936/netvtoronto/netvtoronto/playlist.m3u8 (Reason: Duplicate)
 URL: https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/playlist.m3u8 (Reason: Duplicate)
 URL: https://amg01076-lightning-amg01076c5-rakuten-us-1788.playouts.now.amagi.tv/playlist/amg01076-lightning-newsworld-rakutenus/playlist.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-67f3eb1c443f0671bc03ece8.m3u8 (Reason: Duplicate)
@@ -1376,7 +1267,6 @@ URL: http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-5f0d668b872e4400073acc68.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-5ede448d3d50590007a4419e.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-654ca7f92c1d3300086b608c.m3u8 (Reason: Duplicate)
-URL: http://69.64.57.208/nieta/playlist.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-692ec6d82329c10c5166f436.m3u8 (Reason: Duplicate)
 URL: http://145.239.5.177/148/index.m3u8 (Reason: Duplicate)
 URL: https://dk4ogs46bjxcw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xr1ct045l70mz/Noovo_Cinema.m3u8 (Reason: Duplicate)
@@ -1384,28 +1274,22 @@ URL: https://d2s8iafdyzconc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b7
 URL: https://d29qczaufx5vc3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dxg2k6h0o2l6i/Noovo_Telerealites.m3u8 (Reason: Duplicate)
 URL: https://streaming01.divercom.be/notele_live/direct.stream/playlist.m3u8 (Reason: Duplicate)
 URL: https://video1.getstreamhosting.com:1936/8284/8284/playlist.m3u8 (Reason: Duplicate)
-URL: https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/novo-comedy/video.m3u8?ads.vf=CMRSFvusYbe (Reason: Duplicate)
 URL: https://videostream.jpbgdigital.com/NOWTV.m3u8 (Reason: Duplicate)
 URL: https://test.946985.filegear-sg.me/proxy/a23981548880f405 (Reason: Duplicate)
 URL: https://live.ntdtv.com/mllive860/playlist.m3u8 (Reason: Duplicate)
 URL: https://live.ntdtv.com/cwlive220/playlist.m3u8 (Reason: Duplicate)
 URL: https://strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/playlist.m3u8 (Reason: Duplicate)
 URL: https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/chunklist.m3u8 (Reason: Duplicate)
-URL: https://tnt-television.com/NUMERICA/index.m3u8 (Reason: Duplicate)
 URL: https://hls.newworldtv.com/nw-economie/video/live.m3u8 (Reason: Duplicate)
 URL: https://hls.newworldtv.com/nw-info/video/live.m3u8 (Reason: Duplicate)
 URL: https://hls.newworldtv.com/nw-magazine/video/live.m3u8 (Reason: Duplicate)
-URL: http://41.205.70.146/BEINSPORT1/index.m3u8 (Reason: Duplicate)
-URL: http://41.205.70.146/M6/index.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-662a63275a402e00086bc8a5.m3u8 (Reason: Duplicate)
 URL: https://endour.net/hls/One_nationtv/index.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-62e94ec74823db0007277a8f.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-6380c94947c72b0007ee9a13.m3u8 (Reason: Duplicate)
 URL: https://core.live-apc.eu:5443/LiveApp/streams/backup.m3u8 (Reason: Duplicate)
 URL: https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8 (Reason: Duplicate)
-URL: http://69.64.57.208/ortb/playlist.m3u8 (Reason: Duplicate)
 URL: http://69.64.57.208/ortm/playlist.m3u8 (Reason: Duplicate)
-URL: http://69.64.57.208/tm2/playlist.m3u8 (Reason: Duplicate)
 URL: https://otv.hibridcdn.net/otv/tv_abr/playlist.m3u8 (Reason: Duplicate)
 URL: https://amg00718-outdoorchannela-outdoortv-samsungau-uc7mp.amagi.tv/playlist/amg00718-outdoorchannela-outdoortv-samsungau/playlist.m3u8 (Reason: Duplicate)
 URL: http://40.160.24.55/OUTDOOR_CHANNEL/index.m3u8 (Reason: Duplicate)
@@ -1425,9 +1309,7 @@ URL: http://connectiktv.ddns.net:5000/playtv/@playtv/playlist.m3u8 (Reason: Dupl
 URL: http://connectiktv.ddns.net:5000/plextv/@plextv/playlist.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-662a6309307fa30008196b4e.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-66dad50215d2c60008d7afbd.m3u8 (Reason: Duplicate)
-URL: https://jmp2.uk/plu-66d717c6abec540008ba7eb5.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-66b4990746762a00084c2f78.m3u8 (Reason: Duplicate)
-URL: https://jmp2.uk/plu-66b498bc14a2bb00086965bc.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-65004605110545000842035d.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-62ea3c2e4823db00072788ed.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-67f68bd2135aeda9ddf0ef54.m3u8 (Reason: Duplicate)
@@ -1442,7 +1324,6 @@ URL: https://jmp2.uk/plu-684bf01df7d8b74b625b7dd1.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-677e5a3d7bffa6000808dbf2.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-638e11951177840007fdd6b2.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-64be7398e4391c0008cdedfe.m3u8 (Reason: Duplicate)
-URL: https://jmp2.uk/plu-661801e871e8c30008a73f7b.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-69c592dff0f1a7d732dc6e36.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-62e91af00c43540007f2bb43.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-68d25c623175a2780d051d3a.m3u8 (Reason: Duplicate)
@@ -1461,7 +1342,6 @@ URL: https://jmp2.uk/plu-5ad9b8551b95267e225e59c1.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-693adae77f21340ef9746f56.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-68ada46d5190a45dc9c45af1.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-5dc280c9aa218c0009724b4b.m3u8 (Reason: Duplicate)
-URL: https://jmp2.uk/plu-69c2ae0d1f1accd54916c825.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-69b968e011fc7b9e27c0d958.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-62f3e0522443200008c567d7.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-69b015c5d29cc97de7da4af8.m3u8 (Reason: Duplicate)
@@ -1488,7 +1368,6 @@ URL: https://jmp2.uk/plu-5f8ed9461b35690007a0bc3a.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-62e92a58f3e4290007290c96.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-5f8ed4dbf6bb0800071ffbcb.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-64be64445dc166000899ce75.m3u8 (Reason: Duplicate)
-URL: https://jmp2.uk/plu-69f209cd0ed14e790bddeb46.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-6092544e7639460007d4835e.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-67922858b83355184c699699.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-68ada3edf84960586ad31c7d.m3u8 (Reason: Duplicate)
@@ -1527,27 +1406,23 @@ URL: http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/playlist
 URL: http://158.69.24.53:8080/probashi_tv/index.m3u8 (Reason: Duplicate)
 URL: http://51.254.199.122:8080/PSTV/index.m3u8 (Reason: Duplicate)
 URL: https://stream.ottlive.co.in/ptccanada/index.m3u8 (Reason: Duplicate)
-URL: https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/publicsenat.m3u8 (Reason: Duplicate)
 URL: https://event.vedge.infomaniak.com/livecast/ik:puissancetelevision/manifest.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-696e61287d2afdec4ff2cb75.m3u8 (Reason: Duplicate)
 URL: https://live-video.dpgmedia.net/e087512ad0c32643/out/v1/82d59bbe343b4d0896f829c59da82dc0/index.m3u8 (Reason: Duplicate)
 URL: https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8 (Reason: Duplicate)
-URL: https://h030.video-stream-hosting.de/quantisana-live/_definst_/smil:livestream.smil/playlist.m3u8 (Reason: Duplicate)
 URL: https://tvlocales-live.freecaster.com/rtc/95d2f6ec-22f7-4027-b23d-d5372116b2ad/95d2f6ec-22f7-4027-b23d-d5372116b2ad.isml/master.m3u8 (Reason: Duplicate)
 URL: https://amg02393-awpg-amg02393c1-rakuten-uk-2461.playouts.now.amagi.tv/playlist/amg02393-awpg-quiveutgagnerdesmillions-rakutenuk/playlist.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-652d0b9ceb72580008a4ea5b.m3u8 (Reason: Duplicate)
 URL: https://tgn.bozztv.com/qvtv/qvtv-web/playlist.m3u8 (Reason: Duplicate)
 URL: https://qwestjazz-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-qwestjazz-rakuten/CDN/master.m3u8 (Reason: Duplicate)
 URL: https://samsungau-qwestjazz-samsungtv-zw2jc.amagi.tv/playlist/samsungau-qwestjazz-samsungtv/playlist.m3u8 (Reason: Duplicate)
+URL: https://live.vrtcdn.be/groupa/live/3c3a12b5-093d-4a19-ae1f-3e775433286e/live.isml/.m3u8 (Reason: Duplicate)
+URL: https://live.vrtcdn.be/groupa/live/66a9668e-b37b-4de2-878e-0218563b2dd2/live.isml/.m3u8 (Reason: Duplicate)
 URL: https://vstream-cdn.ch/hls/radio3i.m3u8 (Reason: Duplicate)
 URL: https://contact-live-hls.akamaized.net/hls/live/2038650/CONTACT-Live-HLS/master.m3u8 (Reason: Duplicate)
 URL: https://585b674743bbb.streamlock.net/9030/9030/playlist.m3u8 (Reason: Duplicate)
-URL: https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/radiofrontieres.m3u8 (Reason: Duplicate)
-URL: https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/radiokaraoke-2.m3u8 (Reason: Duplicate)
-URL: https://acwstream.com/lakay/tele6/tracks-v1a1/mono.m3u8 (Reason: Duplicate)
 URL: https://uni01rtmp.tulix.tv/4vehtv/4vehtv-firetv/playlist.m3u8 (Reason: Duplicate)
 URL: http://184.173.179.163:1935/daniel/daniel/playlist.m3u8 (Reason: Duplicate)
-URL: https://play.streamhaiti.com:3585/live/radioteleeclairlive.m3u8 (Reason: Duplicate)
 URL: https://5790d294af2dc.streamlock.net/8124/8124/chunklist.m3u8 (Reason: Duplicate)
 URL: https://f-tx-edge-87.christianworldmedia.com/EJCFG/mp4:EJCFG/playlist.m3u8 (Reason: Duplicate)
 URL: http://teleginen.srfms.com:1935/teleginen/livestream/playlist.m3u8 (Reason: Duplicate)
@@ -1580,7 +1455,7 @@ URL: https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/p
 URL: https://03e7e5beea1d42fea576037d67f531eb.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_Revry/playlist.m3u8 (Reason: Duplicate)
 URL: https://dce9e10d279f410d87ef5ad1c3740459.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_RevryNews/playlist.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-691b332aa4385c191ee44b57.m3u8 (Reason: Duplicate)
-URL: https://s.viks.tv/204/index.m3u8 (Reason: Duplicate)
+URL: http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/1038/index.m3u8 (Reason: Duplicate)
 URL: https://edge14.vedge.infomaniak.com/livecast/ik:rhonetv/manifest.m3u8 (Reason: Duplicate)
 URL: https://edge12.vedge.infomaniak.com/livecast/ik:livehautetension/manifest.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-5f8eb8a8b2619a000710605c.m3u8 (Reason: Duplicate)
@@ -1592,24 +1467,18 @@ URL: https://7nyaler.streamhostingcdn.top/stream/41/index.m3u8 (Reason: Duplicat
 URL: https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8 (Reason: Duplicate)
 URL: https://cdn140m.panaccess.com/HLS/RTVJA/index.m3u8 (Reason: Duplicate)
 URL: https://edge12.vedge.infomaniak.com/livecast/ik:rtblive1_8/manifest.m3u8 (Reason: Duplicate)
-URL: https://edge20.vedge.infomaniak.com/livecast/ik:rtbguiriko-1/manifest.m3u8 (Reason: Duplicate)
-URL: http://69.64.57.208/rtg/playlist.m3u8 (Reason: Duplicate)
 URL: https://2-fss-2.streamhoster.com/pl_120/amlst:206708-4203440/playlist.m3u8 (Reason: Duplicate)
 URL: https://2-fss-2.streamhoster.com/pl_120/amlst:206708-4202592/playlist.m3u8 (Reason: Duplicate)
 URL: https://video1.getstreamhosting.com:1936/8336/8336/playlist.m3u8 (Reason: Duplicate)
-URL: https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/rtl2.m3u8 (Reason: Duplicate)
 URL: http://145.239.5.177/308/index.m3u8 (Reason: Duplicate)
 URL: https://7nyaler.streamhostingcdn.top/stream/65/index.m3u8 (Reason: Duplicate)
 URL: https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8 (Reason: Duplicate)
 URL: https://tvi-live-hls.akamaized.net/hls/live/2038650/TVI-Live-HLS/master.m3u8 (Reason: Duplicate)
-URL: http://69.64.57.208/rtnc/playlist.m3u8 (Reason: Duplicate)
 URL: http://51.254.199.122:8080/e-cableRTNC3/index.m3u8 (Reason: Duplicate)
-URL: http://41.205.70.146/RTSUN/index.m3u8 (Reason: Duplicate)
 URL: http://145.239.5.177/224/index.m3u8 (Reason: Duplicate)
 URL: https://rtsinfo-d.akamaized.net/out/v1/2b7ae2e1ba3f43c6aba15bced153baf5/index.m3u8 (Reason: Duplicate)
 URL: mmsh://212.200.255.151/rtv1 (Reason: Invalid/Non-HTTP)
 URL: mmsh://212.200.255.151/rtv2 (Reason: Invalid/Non-HTTP)
-URL: https://protokolldns.xyz/rtvislamweb554/index.m3u8 (Reason: Duplicate)
 URL: https://www.rtvpendimi.com:19360/tvpendimi/tvpendimi.m3u8 (Reason: Duplicate)
 URL: http://197.243.19.131:1935/rtv25/rtv/chunklist.m3u8 (Reason: Duplicate)
 URL: https://cdn140m.panaccess.com/HLS/RTVC/index.m3u8 (Reason: Duplicate)
@@ -1624,25 +1493,19 @@ URL: https://stream.sen-gt.com/senjeunestv/myStream/playlist.m3u8 (Reason: Dupli
 URL: http://145.239.5.177/355/index.m3u8 (Reason: Duplicate)
 URL: https://video1.getstreamhosting.com:1936/8330/8330/playlist.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-5f8ed2d1c34c2300073bf02c.m3u8 (Reason: Duplicate)
-URL: https://streameurope.ch/live/shivalivetv.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-697a34496f47f39d31ff8bde.m3u8 (Reason: Duplicate)
 URL: https://cdn12.henico.net:8443/live/ssct/index.m3u8 (Reason: Duplicate)
 URL: http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8 (Reason: Duplicate)
-URL: http://40.160.24.55/SLICE/index.m3u8 (Reason: Duplicate)
 URL: https://iptv.sohailtv.com/sohail/playlist/index.m3u8 (Reason: Duplicate)
 URL: https://06cb85ad6ccb4a6b97f561e62d16ad3f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-822-FR-SONYONETHEBLACKLIST-LG_FR/playlist.m3u8 (Reason: Duplicate)
 URL: https://49d735318d6b4c30a24a7997ea594e1b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-820-FR-SONYONEFAVORIS-LG_FR/playlist.m3u8 (Reason: Duplicate)
 URL: https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-817-FR-SONYONEHITSACTION-LG_FR/playlist.m3u8 (Reason: Duplicate)
 URL: https://7aa9671895264ec9a384dfed1b992171.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-818-FR-SONYONEHITSCOMDIE-LG_FR/playlist.m3u8 (Reason: Duplicate)
-URL: https://4f2a3e1ff5274297b115cf0f7da1c2cd.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-819-FR-SONYONESRIESCOMDIE-LG_FR/playlist.m3u8 (Reason: Duplicate)
-URL: https://483a1e90c18641c9a6d27becd41ad892.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-821-FR-SONYONESRIESTHRILLER-LG_FR/playlist.m3u8 (Reason: Duplicate)
 URL: https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8 (Reason: Duplicate)
 URL: https://bild-und-ton.stream/sophiatv-fr/smil:sophia-tv-fr.smil/playlist.m3u8 (Reason: Duplicate)
 URL: https://wmoy82n4y2a7-hls-live.5centscdn.com/sostv/live.stream/playlist.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-62bdb1c5e25122000798ac79.m3u8 (Reason: Duplicate)
-URL: https://jmp2.uk/plu-660c010ce8fba800084f0697.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-62bdb919d36cbd0007e6ab8a.m3u8 (Reason: Duplicate)
-URL: https://jmp2.uk/plu-664f12bb3d173b0008168c1f.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-646b14a0e94c3800082a8d3a.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-646b14747cb4b1000875724d.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-65df4934f7f0af0008c32545.m3u8 (Reason: Duplicate)
@@ -1653,7 +1516,6 @@ URL: https://jmp2.uk/plu-65df49b30d45610008172c5b.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-646b150a15939400089e2702.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-646b1438e94c3800082a8cff.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-65df48ba28730900089f8480.m3u8 (Reason: Duplicate)
-URL: https://jmp2.uk/plu-664f0d373d173b0008164948.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-663115d923e24f000843b49c.m3u8 (Reason: Duplicate)
 URL: https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/dbe59037-07a0-4f1c-82a2-7de94b4b62d2/index.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-5d00e8adaab96b5635b2a005.m3u8 (Reason: Duplicate)
@@ -1663,7 +1525,6 @@ URL: https://7nyaler.streamhostingcdn.top/stream/51/index.m3u8 (Reason: Duplicat
 URL: https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-69776ce979545c21a1220bff.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-69776b58036e883f39e5ab8a.m3u8 (Reason: Duplicate)
-URL: https://jmp2.uk/plu-67b4b3c51a5ca760802cc1c7.m3u8 (Reason: Duplicate)
 URL: https://hlspackager.akamaized.net/live/DB/STERK_TV/HLS/STERK_TV.m3u8 (Reason: Duplicate)
 URL: https://aka-live1050.delivery.roku.com/7572d640-7373-4137-8b14-a3afff395349/t2-origin/out/v1/live.m3u8 (Reason: Duplicate)
 URL: https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8 (Reason: Duplicate)
@@ -1671,9 +1532,7 @@ URL: https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/
 URL: https://aka-live1050.delivery.roku.com/372c813e-1fb9-41d4-a4d0-5fbd803659c5/t2-origin/out/v1/live.m3u8 (Reason: Duplicate)
 URL: https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8 (Reason: Duplicate)
 URL: https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8 (Reason: Duplicate)
-URL: https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray-xitos-del-momento/master.m3u8?ads.vf=--_m-LmFeCi (Reason: Duplicate)
 URL: https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8 (Reason: Duplicate)
-URL: https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray-greatest-hits/master.m3u8?ads.vf=7XQlh7i26u0 (Reason: Duplicate)
 URL: https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8 (Reason: Duplicate)
 URL: https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8 (Reason: Duplicate)
 URL: https://d10cyxntpn0bwm.cloudfront.net/master.m3u8 (Reason: Duplicate)
@@ -1686,7 +1545,7 @@ URL: https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus
 URL: https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8 (Reason: Duplicate)
 URL: https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8 (Reason: Duplicate)
 URL: https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8 (Reason: Duplicate)
-URL: https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray-remember-the-80s/master.m3u8?ads.vf=Fq0bVWh7hy0 (Reason: Duplicate)
+URL: https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/68cc5f97-cf6c-4ff7-9125-f56f272dbcb6/1.m3u8 (Reason: Duplicate)
 URL: https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8 (Reason: Duplicate)
 URL: https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8 (Reason: Duplicate)
 URL: https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8 (Reason: Duplicate)
@@ -1697,9 +1556,7 @@ URL: https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/maste
 URL: https://lotus.stingray.com/manifest/zenlife-zen001-montreal/samsungtvplus/master.m3u8 (Reason: Duplicate)
 URL: https://136044159.r.cdnsun.net/storychannel.m3u8 (Reason: Duplicate)
 URL: https://live.vrtcdn.be/groupb/live/450aa9d1-7173-47f3-aaaa-9701426f8ddd/live.isml/.m3u8 (Reason: Duplicate)
-URL: https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/sudradio.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-6654adb1f99922000854388c.m3u8 (Reason: Duplicate)
-URL: https://livemaraboo.com/hls/stream.m3u8 (Reason: Duplicate)
 URL: https://live3.acangroup.org:1929/publiclive/sunulabel/playlist.m3u8 (Reason: Duplicate)
 URL: https://player.mslivestream.net/tamil/ac206e74d75b285755ee4924df87d951.sdp/playlist.m3u8 (Reason: Duplicate)
 URL: https://player.mslivestream.net/svbc/2e628d7e1b65d31254fd7705ff7ee64d.sdp/playlist.m3u8 (Reason: Duplicate)
@@ -1711,11 +1568,10 @@ URL: http://185.246.209.113/T+E/index.m3u8 (Reason: Duplicate)
 URL: http://cdn11.live247stream.com/tag/tv/playlist.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-6054a9f4bc8a5f000771504c.m3u8 (Reason: Duplicate)
 URL: https://mediaserver1.castpin.com/hls/taltv/index.m3u8 (Reason: Duplicate)
-URL: https://origin-de-y376549.cdn.nextologies.com:444/4c3caf7294b3/fbbd0aee3d9a8260/playlist.m3u8 (Reason: Duplicate)
 URL: https://live.cmr24.fm/TVI/HD/chunks.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-62f3f05505e621000783df2f.m3u8 (Reason: Duplicate)
 URL: https://tv2.fastcast4u.com:3238/live/radiotelebostonlive.m3u8 (Reason: Duplicate)
-URL: http://69.64.57.208/telecongo/playlist.m3u8 (Reason: Duplicate)
+URL: http://51.254.199.122:8080/telecongo/index.m3u8 (Reason: Duplicate)
 URL: http://66.175.238.147:1935/live/myStream/playlist.m3u8 (Reason: Duplicate)
 URL: https://5790d294af2dc.streamlock.net/8124/8124/playlist.m3u8 (Reason: Duplicate)
 URL: https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_ljzy3evp/format/applehttp/protocol/https/a.m3u8 (Reason: Duplicate)
@@ -1723,13 +1579,11 @@ URL: https://watch.haitilive.net/app/2020/telepam/index.fmp4.m3u8 (Reason: Dupli
 URL: https://edge20.vedge.infomaniak.com/livecast/ik:33dm06/manifest.m3u8 (Reason: Duplicate)
 URL: https://mediaserver1.castpin.com/hls/telesahel/index.m3u8 (Reason: Duplicate)
 URL: https://strhlslb01.streamakaci.tv/str_tchad_tchad/str_tchad_multi/playlist.m3u8 (Reason: Duplicate)
-URL: https://acwstream.com/hb/chaine30/playlist.m3u8 (Reason: Duplicate)
 URL: https://vdo.pro-fhi.net:3228/stream/play.m3u8 (Reason: Duplicate)
 URL: https://videas.agglo-lenslievin.fr/index.m3u8 (Reason: Duplicate)
 URL: https://tvlocales-live.freecaster.com/telemb/95d2f6ca-817a-48c0-aba5-6323a621c2d6/95d2f6ca-817a-48c0-aba5-6323a621c2d6.isml/master.m3u8 (Reason: Duplicate)
 URL: https://haititivi.com/haiti/telemix1/index.m3u8 (Reason: Duplicate)
 URL: https://58c04fb1d143f.streamlock.net/rezopropartner_1_live/rezopropartner_1_live/playlist.m3u8 (Reason: Duplicate)
-URL: https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/telenantes.m3u8 (Reason: Duplicate)
 URL: https://64b16f23efbee.streamlock.net/telenova/telenova/playlist.m3u8 (Reason: Duplicate)
 URL: https://zkpywrbgdbeg-hls-live.mariatvcdn.it/teleradiopace2/254c9b5c52a73a94ef0f6169cbd05dc2.sdp/playlist.m3u8 (Reason: Duplicate)
 URL: https://j78dpr7nyq5r-hls-live.mariatvcdn.it/teleradiopace4/13d74f2cfe921bfbc262697203d47d8f.sdp/playlist.m3u8 (Reason: Duplicate)
@@ -1738,7 +1592,6 @@ URL: https://vstream-cdn.ch/hls/teleticino.m3u8 (Reason: Duplicate)
 URL: https://televisa-telenovelas-3-eu.rakuten.wurl.tv/playlist.m3u8 (Reason: Duplicate)
 URL: https://cdn140m.panaccess.com/HLS/Espoir47/index.m3u8 (Reason: Duplicate)
 URL: https://klive.kaltura.com/env/cluster-1-d.live.nvp1/live/hls/p/1719221/e/1_se36k3uk/tl/main/st/0/t/d4y_3ZXUos_JzAX3LwBI3w/index-s32.m3u8 (Reason: Duplicate)
-URL: https://streamspace.live/hls/tempoafrictv/livestream.m3u8 (Reason: Duplicate)
 URL: https://53ff3982.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9UZXJyYU1hdGVyV2lsZF9ITFM/playlist.m3u8 (Reason: Duplicate)
 URL: http://145.239.5.177/356/index.m3u8 (Reason: Duplicate)
 URL: https://futbol9865.ultratv13.workers.dev/deportivo111/24.m3u8 (Reason: Duplicate)
@@ -1751,9 +1604,7 @@ URL: https://amg00353-amg00353c36-xumo-us-3803.playouts.now.amagi.tv/playlist.m3
 URL: https://amg00654-itv-amg00654c35-rakuten-gb-7598.playouts.now.amagi.tv/playlist.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-62e92e536f28870007fa9b3a.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-68d2759a59fd82da3226492d.m3u8 (Reason: Duplicate)
-URL: https://jmp2.uk/plu-62e91563ce7ce300076f917e.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-62bdabbc5611f2000761ca30.m3u8 (Reason: Duplicate)
-URL: http://name-port.to/live/Gregory123/Gregory321/2420047.ts (Reason: Duplicate)
 URL: https://jmp2.uk/plu-64c2214c2a7f2200089a0c4b.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-63da370e2e477400081cf8b6.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-64ca723a2bc49300081a8966.m3u8 (Reason: Duplicate)
@@ -1802,10 +1653,6 @@ URL: https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZFR-LIVE/index.m
 URL: https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZNL-LIVE/index.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-5f914f4b36d67d0007a91a04.m3u8 (Reason: Duplicate)
 URL: http://40.160.24.55/TSN_1/index.m3u8 (Reason: Duplicate)
-URL: http://40.160.24.55/TSN_2/index.m3u8 (Reason: Duplicate)
-URL: http://40.160.24.55/TSN_3/index.m3u8 (Reason: Duplicate)
-URL: http://40.160.24.55/TSN_4/index.m3u8 (Reason: Duplicate)
-URL: http://40.160.24.55/TSN_5/index.m3u8 (Reason: Duplicate)
 URL: https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-66f55c3955567d0008ef9b68.m3u8 (Reason: Duplicate)
 URL: https://alpha.tv.online.tm/hls/ch007.m3u8 (Reason: Duplicate)
@@ -1814,7 +1661,7 @@ URL: https://tv3v.live-kd.com/live/tv3v/livestream/index.m3u8 (Reason: Duplicate
 URL: http://5.9.121.178/tv5monde/index.m3u8 (Reason: Duplicate)
 URL: http://54.37.19.157/TV5MONDE/index.m3u8 (Reason: Duplicate)
 URL: https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8 (Reason: Duplicate)
-URL: http://45.14.84.37/tv5monde/index.m3u8 (Reason: Duplicate)
+URL: http://5.180.164.197:8080/TV5MONDE/index.m3u8 (Reason: Duplicate)
 URL: https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8 (Reason: Duplicate)
 URL: https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8 (Reason: Duplicate)
 URL: http://45.162.231.38:7779/TV5_Monde/index.m3u8 (Reason: Duplicate)
@@ -1825,14 +1672,13 @@ URL: http://23.133.220.149/Unis_TV/index.m3u8 (Reason: Duplicate)
 URL: https://tv7.live-kd.com/live/tv7/livestream/playlist.m3u8 (Reason: Duplicate)
 URL: http://rtmp.smartstream.video:1935/capco/tv29/playlist.m3u8 (Reason: Duplicate)
 URL: https://streamtv.cdn.dvmr.fr/TV78/ngrp:tv78.stream_all/master.m3u8 (Reason: Duplicate)
-URL: http://69.64.57.208/albayanetv/index.m3u8 (Reason: Duplicate)
+URL: http://194.163.157.137:8080/hls/radioalsace.m3u8 (Reason: Duplicate)
 URL: http://145.239.5.177/318/index.m3u8 (Reason: Duplicate)
 URL: https://streamer1.streamhost.org/salive/GMItvfh/playlist.m3u8 (Reason: Duplicate)
-URL: https://stream.berosat.live:19360/tv-capitale-tream/tv-capitale-tream.m3u8 (Reason: Duplicate)
 URL: https://tvlocales-live.freecaster.com/tvlux/95d2f632-0780-4ac1-9895-9e50212dd3b6/95d2f632-0780-4ac1-9895-9e50212dd3b6.isml/master.m3u8 (Reason: Duplicate)
 URL: https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/master.m3u8 (Reason: Duplicate)
+URL: http://194.163.157.137:8080/hls/radiomulhouse.m3u8 (Reason: Duplicate)
 URL: https://932y483pdjv8-hls-live.5centscdn.com/stream/deb10bae362f810630ec3abedcae5894.sdp/playlist.m3u8 (Reason: Duplicate)
-URL: https://rtmp-vm.fidion.de/live/tvrt.m3u8 (Reason: Duplicate)
 URL: https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8 (Reason: Duplicate)
 URL: https://live.tvcbenin.com/direct/729c37a1d3319ee21991227b1f84c687.sdp/playlist.m3u8 (Reason: Duplicate)
 URL: https://cdn.mycloudstream.io/hls/live/broadcast/s6nitpvn/index.m3u8 (Reason: Duplicate)
@@ -1859,22 +1705,13 @@ URL: https://streamer01.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117.m3u8 (
 URL: https://srv.webtvmanager.fr:3970/live/viatelepaeselive.m3u8 (Reason: Duplicate)
 URL: https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883060 (Reason: Duplicate)
 URL: https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8 (Reason: Duplicate)
-URL: http://69.64.57.208/voxafrica/playlist.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-680291e38e1ff89c2427aefd.m3u8 (Reason: Duplicate)
-URL: https://live-radio-cf-vrt.akamaized.net/groupa/live/d6fdec5d-5d67-4cc3-9f8c-e3e8993c8ee4/live.isml/.m3u8 (Reason: Duplicate)
-URL: https://live-radio-cf-vrt.akamaized.net/groupa/live/e96793cc-eac5-4ed2-8eb5-617c2f6abc55/live.isml/.m3u8 (Reason: Duplicate)
-URL: https://live-radio-cf-vrt.akamaized.net/groupb/live/eee20dc8-158a-4194-8d92-0c5a73ffcd3b/live.isml/.m3u8 (Reason: Duplicate)
 URL: https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-w9/cmaf_q2hyb21h/hls-short-hd.m3u8 (Reason: Duplicate)
-URL: http://69.64.57.208/walftv/playlist.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-635659445b4c4700076d2ad1.m3u8 (Reason: Duplicate)
-URL: https://stream.berosat.live/hls/wangu-tv/wangu-tv.m3u8 (Reason: Duplicate)
 URL: https://amg01796-amg01796c3-rakuten-uk-2555.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-wasabii-rakutenuk/playlist.m3u8 (Reason: Duplicate)
-URL: https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8 (Reason: Duplicate)
 URL: https://amg01415-waterbearnetwor-waterbear-samsunguk-1h0y8.amagi.tv/playlist/amg01415-waterbearnetwor-waterbear-samsunguk/playlist.m3u8 (Reason: Duplicate)
-URL: https://wcgtv.ca/live-10/live/stream-1/live.m3u8 (Reason: Duplicate)
 URL: https://amg00735-videosolutionsa-wedobigdocs-ono-0urlz.amagi.tv/playlist/amg00735-videosolutionsa-wedobigdocs-ono/playlist.m3u8 (Reason: Duplicate)
 URL: https://amg00735-videosolutions-amg00735c15-wedotv-eu-1915.playouts.now.amagi.tv/playlist/amg00735-videosolutionsagfast-wedoamor-wedotveu/playlist.m3u8 (Reason: Duplicate)
-URL: https://jmp2.uk/plu-60b4d6c806ad2a00073b3108.m3u8 (Reason: Duplicate)
 URL: https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8 (Reason: Duplicate)
 URL: https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-5f8ecfb9db6c180007a6d1b0.m3u8 (Reason: Duplicate)
@@ -1887,7 +1724,6 @@ URL: https://rakutenaa-fastmedia-yaquelaverite-rakuten-81p2x.amagi.tv/playlist/r
 URL: https://jmp2.uk/plu-654102ed770cf1000866c307.m3u8 (Reason: Duplicate)
 URL: https://7689426c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1mcl9aZWVNYWdpY19ITFM/playlist.m3u8 (Reason: Duplicate)
 URL: https://e4955b54.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1kZV9aZWVPbmVfSExT/playlist.m3u8 (Reason: Duplicate)
-URL: https://origin-cae-m462953.toober.com/4c3caf7294b3/c8bf99484885/playlist.m3u8 (Reason: Duplicate)
 URL: https://live.azenagroup.com/zenith/index.ll.m3u8 (Reason: Duplicate)
 URL: https://live.zitata.tv/direct-hls/playlist.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-66f55cf2483d460008f68746.m3u8 (Reason: Duplicate)
