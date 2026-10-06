@@ -1,54 +1,54 @@
 M3U Collector Processing Report
 Country: Mikhoul
-Generated: 2026-10-04 22:45:19
+Generated: 2026-10-06 01:12:43
 ============================================================
 
 PROCESSING STATISTICS
 -------------------------
-Total Lines Processed: 27921
-Total Channels Found: 12107
+Total Lines Processed: 28040
+Total Channels Found: 12151
 Parsing Errors: 0
-Urls Validated: 11527
-Active Urls: 9093
-Geo Blocked Urls: 905
-Validation Time: 714.9317572116852
-Inactive By Error: {'invalid_content': 234, 'inactive': 1083, 'http_503': 41, 'http_404': 875, 'http_429': 31, 'http_502': 17, 'http_400': 51, 'http_401': 14, 'http_500': 12, 'http_406': 5, 'http_451': 4, 'http_504': 18, 'http_204': 17, 'http_530': 6, 'http_567': 5, 'http_458': 1, 'http_520': 1, 'http_218': 3, 'http_574': 1, 'http_477': 1, 'http_409': 1, 'http_206': 1, 'http_408': 6, 'http_521': 2, 'http_523': 2, 'http_405': 1, 'http_410': 1}
-Total Processing Time: 876.797845363617
-Final Channel Count: 9093
+Urls Validated: 11573
+Active Urls: 9243
+Geo Blocked Urls: 1899
+Validation Time: 706.2841296195984
+Inactive By Error: {'invalid_content': 215, 'inactive': 1036, 'http_503': 40, 'http_404': 879, 'http_502': 16, 'http_400': 47, 'http_401': 13, 'http_500': 13, 'http_406': 5, 'http_451': 4, 'http_504': 18, 'http_204': 16, 'http_530': 6, 'http_567': 5, 'http_429': 1, 'http_520': 1, 'http_218': 3, 'http_574': 1, 'http_477': 1, 'http_521': 3, 'http_409': 1, 'http_206': 1, 'http_408': 1, 'http_523': 2, 'http_405': 1, 'http_410': 1}
+Total Processing Time: 979.573456287384
+Final Channel Count: 9243
 Source Urls Processed: 13
-Total Skipped Urls: 1313
+Total Skipped Urls: 1325
 
 CHANNEL DISTRIBUTION
 --------------------
-General: 1958 channels
-Undefined: 1096 channels
-News: 745 channels
-Entertainment: 662 channels
-Religious: 590 channels
-Music: 589 channels
-Movies: 481 channels
-Series: 322 channels
-Sports: 295 channels
-Kids: 262 channels
+General: 1975 channels
+Undefined: 1104 channels
+News: 760 channels
+Entertainment: 677 channels
+Music: 603 channels
+Religious: 593 channels
+Movies: 495 channels
+Sports: 346 channels
+Series: 323 channels
+Kids: 265 channels
 Documentary: 153 channels
-Legislative: 145 channels
-Education: 129 channels
+Legislative: 143 channels
+Education: 131 channels
 Comedy: 113 channels
 Uncategorized: 108 channels
-Culture: 90 channels
-Lifestyle: 72 channels
-Shop: 64 channels
+Culture: 92 channels
+Lifestyle: 76 channels
+Shop: 63 channels
 Movies;Series: 54 channels
 Cinéma: 50 channels
-Business: 48 channels
-Classic: 48 channels
+Classic: 49 channels
+Business: 47 channels
+Animation: 44 channels
 Outdoor: 44 channels
-Animation: 43 channels
 Animation;Comedy: 43 channels
-Travel: 34 channels
+Travel: 35 channels
 Généraliste: 31 channels
 Classic;Series: 31 channels
-Animation;Kids: 29 channels
+Animation;Kids: 27 channels
 Divertissement: 26 channels
 Cooking: 26 channels
 Family: 25 channels
@@ -56,8 +56,8 @@ Actualités: 20 channels
 Auto: 20 channels
 Séries TV: 19 channels
 Sport Multiplex: 18 channels
-General;Public: 17 channels
 Cooking;Lifestyle: 15 channels
+General;Public: 15 channels
 General;News: 15 channels
 TNT: 14 channels
 Musique: 14 channels
@@ -77,12 +77,12 @@ Science: 9 channels
 Culture;Education: 9 channels
 Crime: 8 channels
 Crime & Mystère: 8 channels
+Business;News: 8 channels
 Music;Religious: 8 channels
 News;Public: 8 channels
 Documentary;Series: 7 channels
 Comedy;Series: 7 channels
 Nature & Travel: 7 channels
-Business;News: 7 channels
 Entertainment;News: 7 channels
 Entertainment;General: 7 channels
 Culture;News: 7 channels
@@ -96,34 +96,33 @@ Classic;Movies: 5 channels
 TV Réalité: 5 channels
 Documentaire: 5 channels
 Food & Home: 5 channels
+En Español: 5 channels
 Daytime TV: 5 channels
 Documentary;News: 5 channels
+General;Religious: 5 channels
+Entertainment;Music: 5 channels
 Style de vie/Pratique: 4 channels
 Anime: 4 channels
 Relax: 4 channels
 Sports & Auto: 4 channels
 Comédie: 4 channels
-En Español: 4 channels
-Entertainment;Music: 4 channels
 Communautaire: 3 channels
 Sport Thématique: 3 channels
 Locale: 3 channels
 Télé réalité: 3 channels
 Classic;Comedy: 3 channels
 Kids;Music: 3 channels
-Reality: 3 channels
 Black Entertainment: 3 channels
+Reality: 3 channels
 Chills & Thrills: 3 channels
 History & Science: 3 channels
-Culture;General: 3 channels
 Documentary;Science: 3 channels
+Culture;General: 3 channels
 Culture;Religious: 3 channels
-Education;Outdoor: 3 channels
 General;Music: 3 channels
-General;Religious: 3 channels
-Culture;Documentary: 3 channels
-Movies;News: 3 channels
+Education;Outdoor: 3 channels
 Entertainment;Sports: 3 channels
+Movies;News: 3 channels
 Music;News: 3 channels
 Outdoor;Travel: 3 channels
 Découverte: 2 channels
@@ -139,33 +138,35 @@ Documentary;Outdoor: 2 channels
 Cooking;Documentary: 2 channels
 Animation;Kids;Religious: 2 channels
 Entertainment;Family;General: 2 channels
-Documentary;Education: 2 channels
 Animation;Kids;Series: 2 channels
+Documentary;Education: 2 channels
+Culture;Documentary: 2 channels
 Business;Documentary: 2 channels
 Classic;Music: 2 channels
 Culture;Entertainment: 2 channels
 Relax;Travel: 2 channels
-Public;Sports: 2 channels
 Culture;Public: 2 channels
+Public;Sports: 2 channels
 Entertainment;Family: 2 channels
 Kids;Movies: 2 channels
 Entertainment;Movies: 2 channels
 Culture;Education;Entertainment: 2 channels
 Entertainment;Lifestyle: 2 channels
 Movies;Music: 2 channels
+Documentary;Lifestyle: 2 channels
 Lifestyle;News: 2 channels
 General;Sports: 2 channels
 Entertainment;General;News: 2 channels
 Lifestyle;Travel: 2 channels
 Culture;Education;Public: 2 channels
+Culturelle: 1 channels
 Educatif: 1 channels
+Réréalité: 1 channels
 Comedie: 1 channels
 Film: 1 channels
-Culturelle: 1 channels
 Multiculturel: 1 channels
-Réréalité: 1 channels
-Cuisine: 1 channels
 Thématique: 1 channels
+Cuisine: 1 channels
 Quebec TV: 1 channels
 Sport: 1 channels
 Etrangère: 1 channels
@@ -173,19 +174,19 @@ Emissions cultes: 1 channels
 Halloween sur Pluto TV: 1 channels
 Hit TV: 1 channels
 News, En Español: 1 channels
-Hit TV, Game Shows: 1 channels
 Drama TV, Movies: 1 channels
+Hit TV, Game Shows: 1 channels
 Movies, Chills & Thrills: 1 channels
 Entertainment;Interactive: 1 channels
-International: 1 channels
 News;Science: 1 channels
+International: 1 channels
 General;Music;Public: 1 channels
 Family;Movies: 1 channels
 News;Sports: 1 channels
 Kids;Sports: 1 channels
 Public;Weather: 1 channels
-Classic;Comedy;Public;Series: 1 channels
 Family;Religious: 1 channels
+Classic;Comedy;Public;Series: 1 channels
 Lifestyle;Relax: 1 channels
 Entertainment;Kids: 1 channels
 Movies;Religious: 1 channels
@@ -194,8 +195,8 @@ Culture;Documentary;Entertainment;General;Movies;Music: 1 channels
 General;Legislative: 1 channels
 Animation;General;Kids: 1 channels
 Animation;Family;Kids: 1 channels
-Education;Lifestyle: 1 channels
 Education;General: 1 channels
+Education;Lifestyle: 1 channels
 Education;Science: 1 channels
 Culture;Documentary;Travel: 1 channels
 Auto;Series: 1 channels
@@ -203,84 +204,83 @@ General;Lifestyle;Music;News: 1 channels
 Entertainment;Travel: 1 channels
 Kids;Public: 1 channels
 Culture;Travel: 1 channels
-Education;News: 1 channels
-Business;Series: 1 channels
 Education;Entertainment: 1 channels
+Business;Series: 1 channels
+Public: 1 channels
 Lifestyle;Shop: 1 channels
+Auto;Travel: 1 channels
 Entertainment;News;Shop: 1 channels
+Education;News: 1 channels
 Cooking;Shop: 1 channels
 Animation;Culture;Entertainment: 1 channels
-Auto;Travel: 1 channels
-Auto;Outdoor;Sports: 1 channels
-Public: 1 channels
-Culture;Kids: 1 channels
 General;Travel: 1 channels
+Auto;Outdoor;Sports: 1 channels
+Culture;Kids: 1 channels
 Documentary;Religious: 1 channels
-Culture;Sports: 1 channels
-Animation;Classic;Entertainment: 1 channels
-Culture;Entertainment;Music: 1 channels
-Animation;Kids;Music: 1 channels
-Comedy;Kids: 1 channels
 Family;General;Movies: 1 channels
+Animation;Kids;Music: 1 channels
+Culture;Entertainment;Music: 1 channels
+Comedy;Kids: 1 channels
+Culture;Sports: 1 channels
+Cooking;Education: 1 channels
 Education;News;Science: 1 channels
-Legislative;News: 1 channels
 Entertainment;General;Series: 1 channels
+Legislative;News: 1 channels
 Education;Religious: 1 channels
 Auto;Documentary: 1 channels
-Entertainment;Series: 1 channels
 Animation;Classic: 1 channels
 Auto;Outdoor;Series;Sports: 1 channels
-Interactive;News: 1 channels
+Entertainment;Series: 1 channels
+Animation;Kids;Public: 1 channels
+Culture;Family;General: 1 channels
+Documentary;Entertainment: 1 channels
 Kids;Lifestyle: 1 channels
-General;Series: 1 channels
-Family;Kids: 1 channels
 Culture;Family: 1 channels
 Culture;Lifestyle: 1 channels
-Documentary;Entertainment: 1 channels
-Animation;Kids;Public: 1 channels
+Interactive;News: 1 channels
 Auto;Entertainment: 1 channels
-Family;General: 1 channels
 Documentary;Travel: 1 channels
+Family;General: 1 channels
+General;Series: 1 channels
 Documentary;Education;Science: 1 channels
-Comedy;Movies;Series;Sports: 1 channels
-Education;Entertainment;News: 1 channels
 Culture;Education;News: 1 channels
+Education;Entertainment;News: 1 channels
+Comedy;Movies;Series;Sports: 1 channels
 Documentary;Education;Outdoor;Relax: 1 channels
+Family;Kids: 1 channels
 Entertainment;Family;General;News: 1 channels
 Classic;News: 1 channels
 Culture;Entertainment;Sports;Travel: 1 channels
 Culture;Entertainment;Music;News: 1 channels
-Documentary;Lifestyle: 1 channels
 
 VALIDATION FAILURE BREAKDOWN
 ----------------------------
-HTTP 204 Errors: 17 channels
+HTTP 204 Errors: 16 channels
 HTTP 206 Errors: 1 channels
 HTTP 218 Errors: 3 channels
-HTTP 400 Errors: 51 channels
-HTTP 401 Errors: 14 channels
-HTTP 404 Errors: 875 channels
+HTTP 400 Errors: 47 channels
+HTTP 401 Errors: 13 channels
+HTTP 404 Errors: 879 channels
 HTTP 405 Errors: 1 channels
 HTTP 406 Errors: 5 channels
-HTTP 408 Errors: 6 channels
+HTTP 408 Errors: 1 channels
 HTTP 409 Errors: 1 channels
 HTTP 410 Errors: 1 channels
-HTTP 429 Errors: 31 channels
+HTTP 429 Errors: 1 channels
 HTTP 451 Errors: 4 channels
-HTTP 458 Errors: 1 channels
 HTTP 477 Errors: 1 channels
-HTTP 500 Errors: 12 channels
-HTTP 502 Errors: 17 channels
-HTTP 503 Errors: 41 channels
+HTTP 500 Errors: 13 channels
+HTTP 502 Errors: 16 channels
+HTTP 503 Errors: 40 channels
 HTTP 504 Errors: 18 channels
 HTTP 520 Errors: 1 channels
-HTTP 521 Errors: 2 channels
+HTTP 521 Errors: 3 channels
 HTTP 523 Errors: 2 channels
 HTTP 530 Errors: 6 channels
 HTTP 567 Errors: 5 channels
 HTTP 574 Errors: 1 channels
-Inactive: 1083 channels
-Invalid Content: 234 channels
+Inactive: 1036 channels
+Invalid Content: 215 channels
 
 SKIPPED URLS (Invalid, Non-HTTP, or Duplicate)
 ---------------------------------------------
@@ -404,7 +404,7 @@ URL: https://amg02393-awpg-amg02393c2-rakuten-uk-2464.playouts.now.amagi.tv/play
 URL: https://zylo-cinenanar-rakuten.amagi.tv/playlist.m3u8 (Reason: Duplicate)
 URL: https://amg00711-zylo-amg00711c8-rakuten-uk-2686.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinewestern-rakutenuk/playlist.m3u8 (Reason: Duplicate)
 
---- From Source: https://iptv-org.github.io/iptv/countries/fr.m3u (78 skipped) ---
+--- From Source: https://iptv-org.github.io/iptv/countries/fr.m3u (79 skipped) ---
 URL: https://live-20minutestv.digiteka.com/1961167769/index.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-60afaa535580be0007ac9ee4.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-6823648580b2665220d9e69a.m3u8 (Reason: Duplicate)
@@ -429,6 +429,7 @@ URL: https://d20oth1416y9a1.cloudfront.net/playlist/amg00711-zylofast-frequencen
 URL: https://jmp2.uk/plu-604f8de01b479400078fb1e7.m3u8 (Reason: Duplicate)
 URL: https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-6683cd2fca74680008772545.m3u8 (Reason: Duplicate)
+URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/publicsenat/publicsenat-dm.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-60549c238c3f21000753d3e0.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-60afae68a7fc50000737186d.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-60549d97cd7b090007c73314.m3u8 (Reason: Duplicate)
@@ -513,7 +514,7 @@ URL: https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/rakutenAA-z
 URL: http://5.78.65.164/TV5Monde/index.m3u8 (Reason: Duplicate)
 URL: https://7689426c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1mcl9aZWVNYWdpY19ITFM/playlist.m3u8 (Reason: Duplicate)
 
---- From Source: https://iptv-org.github.io/iptv/languages/fra.m3u (257 skipped) ---
+--- From Source: https://iptv-org.github.io/iptv/languages/fra.m3u (262 skipped) ---
 URL: http://145.239.5.177/314/index.m3u8 (Reason: Duplicate)
 URL: https://live-20minutestv.digiteka.com/1961167769/index.m3u8 (Reason: Duplicate)
 URL: http://145.239.5.177/332/index.m3u8 (Reason: Duplicate)
@@ -551,6 +552,7 @@ URL: https://do7nccdsswstc.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b
 URL: https://livehd.vedge.infomaniak.com/livecast/livehd/master.m3u8 (Reason: Duplicate)
 URL: https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZFR-LIVE/index.m3u8 (Reason: Duplicate)
 URL: https://tvlocales-live.freecaster.com/live/95d2e3af-5ab8-45a9-9dc9-f544d006b5d5/95d2e3af-5ab8-45a9-9dc9-f544d006b5d5.isml/master.m3u8 (Reason: Duplicate)
+URL: http://151.80.18.177:86/Canal+_HD/index.m3u8 (Reason: Duplicate)
 URL: http://151.80.18.177:86/Canal+_cinema_HD/index.m3u8 (Reason: Duplicate)
 URL: https://futbol9865.ultratv13.workers.dev/deportivo111/14.m3u8 (Reason: Duplicate)
 URL: http://tv.streambox.fr/live/testlivestream/testlivestream/31.m3u8 (Reason: Duplicate)
@@ -588,6 +590,7 @@ URL: https://jmp2.uk/plu-5f8edad922b10b000753bc37.m3u8 (Reason: Duplicate)
 URL: https://rakutenaa-zylo-emotional-rakuten-r1zkm.amagi.tv/playlist/rakutenAA-zylo-emotional-rakuten/playlist.m3u8 (Reason: Duplicate)
 URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8 (Reason: Duplicate)
 URL: https://2f6c5bf4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c0ZyYW5jYWlzX0hMUw/playlist.m3u8 (Reason: Duplicate)
+URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/misc/europe-1-tv-dm.m3u8 (Reason: Duplicate)
 URL: https://evandis.streamakaci.tv/str_evandis_evandis/str_evandis_multi/playlist.m3u8 (Reason: Duplicate)
 URL: https://cdn3.wowza.com/1/YW5wSWZiRGd2eFlU/bGV0aVBq/hls/live/playlist.m3u8 (Reason: Duplicate)
 URL: https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8 (Reason: Duplicate)
@@ -600,6 +603,7 @@ URL: http://176.65.146.100:8047/play/a074/index.m3u8 (Reason: Duplicate)
 URL: https://sv1.data-stream.top/8c0a287e56a6e1843143904778be3775b4d3edd4fba4ffcc3f72638c7a71d4d4/hls/francetv4.m3u8 (Reason: Duplicate)
 URL: http://145.239.5.177/305/index.m3u8 (Reason: Duplicate)
 URL: https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8 (Reason: Duplicate)
+URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/franceinfo.m3u8 (Reason: Duplicate)
 URL: https://5421175365ea3.streamlock.net/live/smil:switch.smil/playlist.m3u8 (Reason: Duplicate)
 URL: https://d20oth1416y9a1.cloudfront.net/playlist/amg00711-zylofast-frequencenovelas-rakutenus/playlist.m3u8 (Reason: Duplicate)
 URL: https://funradiovisionhd.vedge.infomaniak.com/livecast/ik:funradiovisionhd/manifest.m3u8 (Reason: Duplicate)
@@ -634,6 +638,7 @@ URL: http://145.239.5.177/330/index.m3u8 (Reason: Duplicate)
 URL: http://145.239.5.177/329/index.m3u8 (Reason: Duplicate)
 URL: http://145.239.5.177/368/index.m3u8 (Reason: Duplicate)
 URL: https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8 (Reason: Duplicate)
+URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/publicsenat/publicsenat-dm.m3u8 (Reason: Duplicate)
 URL: https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-60549c238c3f21000753d3e0.m3u8 (Reason: Duplicate)
 URL: https://temp3.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8 (Reason: Duplicate)
@@ -658,6 +663,7 @@ URL: https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtv
 URL: https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8 (Reason: Duplicate)
 URL: https://bamusa-naturetime-emea-fra-rakuten.amagi.tv/playlist.m3u8 (Reason: Duplicate)
 URL: http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8 (Reason: Duplicate)
+URL: http://193.254.245.162/NICKELODEON/index.m3u8 (Reason: Duplicate)
 URL: http://145.239.5.177/148/index.m3u8 (Reason: Duplicate)
 URL: https://test.946985.filegear-sg.me/proxy/a23981548880f405 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-6380c94947c72b0007ee9a13.m3u8 (Reason: Duplicate)
@@ -766,13 +772,13 @@ URL: https://streamer01.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117.m3u8 (
 URL: https://srv.webtvmanager.fr:3970/live/viatelepaeselive.m3u8 (Reason: Duplicate)
 URL: https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-680291e38e1ff89c2427aefd.m3u8 (Reason: Duplicate)
-URL: https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-w9/cmaf_q2hyb21h/hls-short-hd.m3u8 (Reason: Duplicate)
+URL: http://5.180.164.197:8080/W9/index.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-635659445b4c4700076d2ad1.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-612e044c970e6f00083bcf3b.m3u8 (Reason: Duplicate)
 URL: https://7689426c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1mcl9aZWVNYWdpY19ITFM/playlist.m3u8 (Reason: Duplicate)
 URL: https://live.azenagroup.com/zenith/index.ll.m3u8 (Reason: Duplicate)
 
---- From Source: https://iptv-org.github.io/iptv/index.m3u (839 skipped) ---
+--- From Source: https://iptv-org.github.io/iptv/index.m3u (845 skipped) ---
 URL: https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8 (Reason: Duplicate)
 URL: https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8 (Reason: Duplicate)
 URL: https://3abn.bozztv.com/3abncanada/3ABN/master.m3u8 (Reason: Duplicate)
@@ -878,6 +884,7 @@ URL: https://canalalphaju.vedge.infomaniak.com/livecast/ik:canalalphaju/playlist
 URL: https://canalalpha.vedge.infomaniak.com/livecast/ik:canalalpha/playlist.m3u8 (Reason: Duplicate)
 URL: https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZFR-LIVE/index.m3u8 (Reason: Duplicate)
 URL: https://tvlocales-live.freecaster.com/live/95d2e3af-5ab8-45a9-9dc9-f544d006b5d5/95d2e3af-5ab8-45a9-9dc9-f544d006b5d5.isml/master.m3u8 (Reason: Duplicate)
+URL: http://151.80.18.177:86/Canal+_HD/index.m3u8 (Reason: Duplicate)
 URL: http://151.80.18.177:86/Canal+_cinema_HD/index.m3u8 (Reason: Duplicate)
 URL: https://futbol9865.ultratv13.workers.dev/deportivo111/14.m3u8 (Reason: Duplicate)
 URL: http://tv.streambox.fr/live/testlivestream/testlivestream/31.m3u8 (Reason: Duplicate)
@@ -989,6 +996,7 @@ URL: https://edge11.vedge.infomaniak.com/livecast/ik:espacetv/manifest.m3u8 (Rea
 URL: https://b53136fc0d724da78cac7754d601393d.msvdn.net/live/S13070333/lgUidxJCmpO3/playlist.m3u8 (Reason: Duplicate)
 URL: https://edge12.vedge.infomaniak.com/livecast/ik:etvgp/manifest.m3u8 (Reason: Duplicate)
 URL: https://2f6c5bf4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c0ZyYW5jYWlzX0hMUw/playlist.m3u8 (Reason: Duplicate)
+URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/misc/europe-1-tv-dm.m3u8 (Reason: Duplicate)
 URL: https://playtv4k.live/live/EVTELE/index.m3u8 (Reason: Duplicate)
 URL: https://evandis.streamakaci.tv/str_evandis_evandis/str_evandis_multi/playlist.m3u8 (Reason: Duplicate)
 URL: https://kali.vdopanel.com:3788/hybrid/play.m3u8 (Reason: Duplicate)
@@ -1017,6 +1025,7 @@ URL: http://176.65.146.100:8047/play/a074/index.m3u8 (Reason: Duplicate)
 URL: https://sv1.data-stream.top/8c0a287e56a6e1843143904778be3775b4d3edd4fba4ffcc3f72638c7a71d4d4/hls/francetv4.m3u8 (Reason: Duplicate)
 URL: http://145.239.5.177/305/index.m3u8 (Reason: Duplicate)
 URL: https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8 (Reason: Duplicate)
+URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/franceinfo.m3u8 (Reason: Duplicate)
 URL: https://5421175365ea3.streamlock.net/live/smil:switch.smil/playlist.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-62f4f90e39183b000769f12b.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-6790fa9e1cfc4aa96dfadcef.m3u8 (Reason: Duplicate)
@@ -1102,6 +1111,7 @@ URL: https://streaming.lauradavemedia.com/ldm/index.m3u8 (Reason: Duplicate)
 URL: https://tnt-television.com/LBFD_RTV/index.m3u8 (Reason: Duplicate)
 URL: http://145.239.5.177/368/index.m3u8 (Reason: Duplicate)
 URL: https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8 (Reason: Duplicate)
+URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/publicsenat/publicsenat-dm.m3u8 (Reason: Duplicate)
 URL: https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-60549c238c3f21000753d3e0.m3u8 (Reason: Duplicate)
 URL: https://stream.berosat.live/hls/monde24h-tv-index/monde24h-tv-index.m3u8 (Reason: Duplicate)
@@ -1195,9 +1205,11 @@ URL: https://jmp2.uk/plu-62bdb75c3afd1200079146a6.m3u8 (Reason: Duplicate)
 URL: https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php (Reason: Duplicate)
 URL: https://jmp2.uk/plu-67f3eb800a1beb98767ca748.m3u8 (Reason: Duplicate)
 URL: http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8 (Reason: Duplicate)
+URL: http://193.254.245.162/NICKELODEON/index.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-654ca7f92c1d3300086b608c.m3u8 (Reason: Duplicate)
 URL: http://145.239.5.177/148/index.m3u8 (Reason: Duplicate)
 URL: https://streaming01.divercom.be/notele_live/direct.stream/playlist.m3u8 (Reason: Duplicate)
+URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/nouvelle-caledonie-1ere.m3u8 (Reason: Duplicate)
 URL: https://video1.getstreamhosting.com:1936/8284/8284/playlist.m3u8 (Reason: Duplicate)
 URL: rtmp://95.67.11.153/klive/stream (Reason: Invalid/Non-HTTP)
 URL: https://test.946985.filegear-sg.me/proxy/a23981548880f405 (Reason: Duplicate)
@@ -1579,7 +1591,7 @@ URL: https://live.tvcbenin.com/direct/729c37a1d3319ee21991227b1f84c687.sdp/playl
 URL: https://cdn.mycloudstream.io/hls/live/broadcast/s6nitpvn/index.m3u8 (Reason: Duplicate)
 URL: https://cdn.mycloudstream.io/hls/live/broadcast/wokrhjkd/index.m3u8 (Reason: Duplicate)
 URL: https://tvlocales-live.freecaster.com/tvcom/95d2f656-ba85-4e13-affc-f1936be1a86d/95d2f656-ba85-4e13-affc-f1936be1a86d.isml/master.m3u8 (Reason: Duplicate)
-URL: https://cdn1tlinkgo.tlink.cl/tve/index.m3u8 (Reason: Duplicate)
+URL: https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_576.m3u8 (Reason: Duplicate)
 URL: https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8 (Reason: Duplicate)
 URL: https://cache1a.netplus.ch/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY4MTg5NzQyIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy90dm0zL2Jyb3dzZXItSExTOC8iLCJzZXNzaW9uX2Nkbl9pZCI6IjNhZmJlZTIxMmU1NjUyODEiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzEwLjAuMjI5LjE5Iiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiI1MyIsInNvdXJjZXMiOls0OF19.N29uj_Xo3YmdQUboW5e45wx4lUey-utXtC6RpbbCGgJ8uCl2ngejd8tu_S-3tv7s02OtkHo4Rkf7mitOx_7lcA==/live/eds/tvm3/browser-HLS8/tvm3.m3u8 (Reason: Duplicate)
 URL: https://fastly.live.brightcove.com/6369851620112/us-east-1/15364602001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicGZncmlmLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiMTUzNjQ2MDIwMDEiLCJlaG4iOiJmYXN0bHkubGl2ZS5icmlnaHRjb3ZlLmNvbSIsImlzcyI6ImJsaXZlLXBsYXliYWNrLXNvdXJjZS1hcGkiLCJzdWIiOiJwYXRobWFwdG9rZW4iLCJhdWQiOlsiMTUzNjQ2MDIwMDEiXSwianRpIjoiNjM2OTg1MTYyMDExMiJ9.zRE6fD9JwdbNLUIK5zgvlTAvXCQ3HeeE5p0yH0Pd3-Q/playlist-hls.m3u8 (Reason: Duplicate)
@@ -1594,7 +1606,7 @@ URL: https://streamer01.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117.m3u8 (
 URL: https://srv.webtvmanager.fr:3970/live/viatelepaeselive.m3u8 (Reason: Duplicate)
 URL: https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-680291e38e1ff89c2427aefd.m3u8 (Reason: Duplicate)
-URL: https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-w9/cmaf_q2hyb21h/hls-short-hd.m3u8 (Reason: Duplicate)
+URL: http://5.180.164.197:8080/W9/index.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-635659445b4c4700076d2ad1.m3u8 (Reason: Duplicate)
 URL: https://amg01415-waterbearnetwor-waterbear-samsunguk-1h0y8.amagi.tv/playlist/amg01415-waterbearnetwor-waterbear-samsunguk/playlist.m3u8 (Reason: Duplicate)
 URL: https://amg00735-videosolutionsa-wedobigdocs-ono-0urlz.amagi.tv/playlist/amg00735-videosolutionsa-wedobigdocs-ono/playlist.m3u8 (Reason: Duplicate)
