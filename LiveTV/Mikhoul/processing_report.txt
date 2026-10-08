@@ -1,85 +1,85 @@
 M3U Collector Processing Report
 Country: Mikhoul
-Generated: 2026-10-06 23:30:09
+Generated: 2026-10-08 00:04:01
 ============================================================
 
 PROCESSING STATISTICS
 -------------------------
-Total Lines Processed: 28040
-Total Channels Found: 12151
+Total Lines Processed: 28009
+Total Channels Found: 12144
 Parsing Errors: 0
 Urls Validated: 11573
-Active Urls: 9208
-Geo Blocked Urls: 1936
-Validation Time: 714.3634490966797
-Inactive By Error: {'http_503': 40, 'inactive': 1074, 'invalid_content': 209, 'http_404': 883, 'http_429': 2, 'http_502': 14, 'http_400': 48, 'http_500': 12, 'http_401': 11, 'http_406': 5, 'http_451': 4, 'http_504': 17, 'http_204': 18, 'http_530': 6, 'http_567': 5, 'http_520': 1, 'http_218': 3, 'http_574': 1, 'http_477': 1, 'http_409': 1, 'http_206': 1, 'http_408': 3, 'http_521': 2, 'http_523': 2, 'http_405': 1, 'http_410': 1}
-Total Processing Time: 975.4489316940308
-Final Channel Count: 9208
+Active Urls: 9175
+Geo Blocked Urls: 1917
+Validation Time: 712.001763343811
+Inactive By Error: {'inactive': 1079, 'http_404': 873, 'http_503': 41, 'invalid_content': 218, 'http_502': 19, 'http_429': 33, 'http_400': 39, 'http_500': 11, 'http_401': 13, 'http_406': 5, 'http_451': 2, 'http_504': 18, 'http_204': 16, 'http_530': 6, 'http_567': 5, 'http_458': 1, 'http_520': 1, 'http_218': 3, 'http_409': 2, 'http_574': 1, 'http_477': 1, 'http_206': 1, 'http_408': 4, 'http_521': 2, 'http_523': 2, 'http_405': 1, 'http_410': 1}
+Total Processing Time: 990.2467906475067
+Final Channel Count: 9175
 Source Urls Processed: 13
-Total Skipped Urls: 1325
+Total Skipped Urls: 1324
 
 CHANNEL DISTRIBUTION
 --------------------
-General: 1965 channels
-Undefined: 1103 channels
-News: 758 channels
-Entertainment: 666 channels
-Music: 603 channels
-Religious: 593 channels
-Movies: 487 channels
-Sports: 339 channels
-Series: 322 channels
-Kids: 263 channels
-Documentary: 154 channels
+General: 1986 channels
+Undefined: 1104 channels
+News: 744 channels
+Entertainment: 665 channels
+Music: 605 channels
+Religious: 596 channels
+Movies: 485 channels
+Series: 324 channels
+Sports: 302 channels
+Kids: 266 channels
+Documentary: 151 channels
 Legislative: 145 channels
 Education: 131 channels
-Comedy: 113 channels
+Comedy: 114 channels
 Uncategorized: 108 channels
-Culture: 95 channels
-Lifestyle: 74 channels
+Culture: 93 channels
+Lifestyle: 73 channels
 Shop: 64 channels
-Movies;Series: 55 channels
+Movies;Series: 53 channels
 Cinéma: 50 channels
 Classic: 49 channels
-Business: 47 channels
+Business: 48 channels
 Outdoor: 44 channels
-Animation: 43 channels
 Animation;Comedy: 43 channels
+Animation: 41 channels
 Travel: 35 channels
 Généraliste: 31 channels
 Classic;Series: 31 channels
-Animation;Kids: 28 channels
+Cooking: 28 channels
 Divertissement: 26 channels
-Cooking: 26 channels
+Animation;Kids: 26 channels
 Family: 25 channels
 Actualités: 20 channels
-Auto: 20 channels
 Séries TV: 19 channels
+Auto: 19 channels
 Sport Multiplex: 18 channels
 Cooking;Lifestyle: 15 channels
 General;Public: 15 channels
-General;News: 15 channels
 TNT: 14 channels
 Musique: 14 channels
+General;News: 14 channels
 Documentaires: 12 channels
 Weather: 12 channels
 100% Français: 12 channels
 À Binge-Watch: 11 channels
 Jeunesse: 10 channels
 Régionale: 10 channels
+Education;Kids: 10 channels
 Outdoor;Sports: 10 channels
 Kids & Family: 10 channels
 FRANCE: 10 channels
 Séries et Divertissements: 9 channels
-Education;Kids: 9 channels
 Classic TV: 9 channels
-Science: 9 channels
+Culture;Education: 9 channels
 Crime: 8 channels
 Crime & Mystère: 8 channels
 Business;News: 8 channels
 Music;Religious: 8 channels
 News;Public: 8 channels
-Culture;Education: 8 channels
+Science: 8 channels
 Documentary;Series: 7 channels
 Comedy;Series: 7 channels
 Nature & Travel: 7 channels
@@ -98,7 +98,6 @@ Documentaire: 5 channels
 Food & Home: 5 channels
 En Español: 5 channels
 Daytime TV: 5 channels
-Documentary;News: 5 channels
 General;Religious: 5 channels
 Entertainment;Music: 5 channels
 Style de vie/Pratique: 4 channels
@@ -112,13 +111,15 @@ Locale: 3 channels
 Télé réalité: 3 channels
 Classic;Comedy: 3 channels
 Kids;Music: 3 channels
+Nouveau sur Pluto TV: 3 channels
 Black Entertainment: 3 channels
 Reality: 3 channels
 Chills & Thrills: 3 channels
 History & Science: 3 channels
-Culture;General: 3 channels
 Documentary;Science: 3 channels
+Culture;General: 3 channels
 Culture;Religious: 3 channels
+Documentary;News: 3 channels
 Education;Outdoor: 3 channels
 General;Music: 3 channels
 Entertainment;Sports: 3 channels
@@ -127,69 +128,69 @@ Music;News: 3 channels
 Outdoor;Travel: 3 channels
 Découverte: 2 channels
 Entertainment;Outdoor;Series: 2 channels
-Nouveau sur Pluto TV: 2 channels
 Sci-Fi & Action: 2 channels
 Anime & Gaming, Kids & Family: 2 channels
 True Crime: 2 channels
-Drama TV: 2 channels
 Hit TV, True Crime: 2 channels
 Music, En Español: 2 channels
+Drama TV: 2 channels
 Documentary;Outdoor: 2 channels
 Cooking;Documentary: 2 channels
 Entertainment;Family;General: 2 channels
 Animation;Kids;Religious: 2 channels
 Documentary;Education: 2 channels
 Animation;Kids;Series: 2 channels
+Culture;Travel: 2 channels
 Culture;Documentary: 2 channels
 Business;Documentary: 2 channels
 Classic;Music: 2 channels
 Culture;Entertainment: 2 channels
-Culture;Public: 2 channels
-Public;Sports: 2 channels
 Relax;Travel: 2 channels
+Culture;Public: 2 channels
 Entertainment;Family: 2 channels
-Entertainment;Movies: 2 channels
+Public;Sports: 2 channels
 Kids;Movies: 2 channels
+Entertainment;Movies: 2 channels
 Culture;Education;Entertainment: 2 channels
-Documentary;Lifestyle: 2 channels
 Entertainment;Lifestyle: 2 channels
+Documentary;Lifestyle: 2 channels
 Movies;Music: 2 channels
 Lifestyle;News: 2 channels
-General;Sports: 2 channels
 Entertainment;General;News: 2 channels
+General;Sports: 2 channels
 Lifestyle;Travel: 2 channels
 Culture;Education;Public: 2 channels
-Educatif: 1 channels
-Réréalité: 1 channels
 Multiculturel: 1 channels
-Film: 1 channels
-Culturelle: 1 channels
+Educatif: 1 channels
 Comedie: 1 channels
+Film: 1 channels
+Réréalité: 1 channels
+Culturelle: 1 channels
 Affaires Publiques: 1 channels
-Cuisine: 1 channels
 Thématique: 1 channels
+Cuisine: 1 channels
 Quebec TV: 1 channels
 Sport: 1 channels
 Etrangère: 1 channels
-Emissions cultes: 1 channels
 Halloween sur Pluto TV: 1 channels
+Emissions cultes: 1 channels
 Hit TV: 1 channels
 News, En Español: 1 channels
+Drama TV, Movies: 1 channels
 Hit TV, Game Shows: 1 channels
 Movies, Chills & Thrills: 1 channels
-Drama TV, Movies: 1 channels
-International: 1 channels
 Entertainment;Interactive: 1 channels
+International: 1 channels
 News;Science: 1 channels
 General;Music;Public: 1 channels
 Family;Movies: 1 channels
 News;Sports: 1 channels
-Public;Weather: 1 channels
+Kids;Sports: 1 channels
 Family;Religious: 1 channels
+Public;Weather: 1 channels
 Classic;Comedy;Public;Series: 1 channels
 Lifestyle;Relax: 1 channels
 Entertainment;Kids: 1 channels
-Kids;Sports: 1 channels
 Movies;Religious: 1 channels
 Business;Culture;Lifestyle: 1 channels
 Culture;Documentary;Entertainment;General;Movies;Music: 1 channels
@@ -199,90 +200,88 @@ Animation;Family;Kids: 1 channels
 Education;Lifestyle: 1 channels
 Education;General: 1 channels
 Culture;Documentary;Travel: 1 channels
-Education;Science: 1 channels
-Entertainment;Travel: 1 channels
 General;Lifestyle;Music;News: 1 channels
-Auto;Series: 1 channels
+Entertainment;Travel: 1 channels
 Kids;Public: 1 channels
-Culture;Travel: 1 channels
+Auto;Series: 1 channels
 Education;Entertainment: 1 channels
 Business;Series: 1 channels
 Public: 1 channels
-Education;News: 1 channels
 Lifestyle;Shop: 1 channels
-Entertainment;News;Shop: 1 channels
+Education;News: 1 channels
 Cooking;Shop: 1 channels
+Entertainment;News;Shop: 1 channels
 Auto;Travel: 1 channels
+Auto;Outdoor;Sports: 1 channels
 Animation;Culture;Entertainment: 1 channels
 General;Travel: 1 channels
-Auto;Outdoor;Sports: 1 channels
 Documentary;Religious: 1 channels
 Culture;Sports: 1 channels
+Animation;Classic;Entertainment: 1 channels
 Animation;Kids;Music: 1 channels
-Family;General;Movies: 1 channels
 Culture;Entertainment;Music: 1 channels
-Cooking;Education: 1 channels
+Family;General;Movies: 1 channels
 Comedy;Kids: 1 channels
-Legislative;News: 1 channels
-Entertainment;General;Series: 1 channels
-Music;News;Religious: 1 channels
+Cooking;Education: 1 channels
 Education;News;Science: 1 channels
-Culture;Kids: 1 channels
+Music;News;Religious: 1 channels
+Legislative;News: 1 channels
 Auto;Documentary: 1 channels
-Education;Religious: 1 channels
+Entertainment;General;Series: 1 channels
 Entertainment;Series: 1 channels
+Culture;Kids: 1 channels
+Education;Religious: 1 channels
 Auto;Outdoor;Series;Sports: 1 channels
-Animation;Classic: 1 channels
-Culture;Family: 1 channels
 Animation;Kids;Public: 1 channels
+Animation;Classic: 1 channels
+Documentary;Entertainment: 1 channels
+Culture;Family: 1 channels
+Documentary;Travel: 1 channels
+Family;General: 1 channels
+Culture;Education;News: 1 channels
+Documentary;Education;Science: 1 channels
+Education;Entertainment;News: 1 channels
 General;Series: 1 channels
 Interactive;News: 1 channels
-Documentary;Entertainment: 1 channels
-Family;General: 1 channels
-Culture;Lifestyle: 1 channels
-Family;Kids: 1 channels
-Auto;Entertainment: 1 channels
-Documentary;Travel: 1 channels
-Documentary;Education;Science: 1 channels
-Culture;Education;News: 1 channels
-Culture;Family;General: 1 channels
-Education;Entertainment;News: 1 channels
-Comedy;Movies;Series;Sports: 1 channels
 Documentary;Education;Outdoor;Relax: 1 channels
+Culture;Lifestyle: 1 channels
+Auto;Entertainment: 1 channels
+Kids;Lifestyle: 1 channels
 Entertainment;Family;General;News: 1 channels
+Family;Kids: 1 channels
 Classic;News: 1 channels
 Culture;Entertainment;Sports;Travel: 1 channels
 Culture;Entertainment;Music;News: 1 channels
-Kids;Lifestyle: 1 channels
 
 VALIDATION FAILURE BREAKDOWN
 ----------------------------
-HTTP 204 Errors: 18 channels
+HTTP 204 Errors: 16 channels
 HTTP 206 Errors: 1 channels
 HTTP 218 Errors: 3 channels
-HTTP 400 Errors: 48 channels
-HTTP 401 Errors: 11 channels
-HTTP 404 Errors: 883 channels
+HTTP 400 Errors: 39 channels
+HTTP 401 Errors: 13 channels
+HTTP 404 Errors: 873 channels
 HTTP 405 Errors: 1 channels
 HTTP 406 Errors: 5 channels
-HTTP 408 Errors: 3 channels
-HTTP 409 Errors: 1 channels
+HTTP 408 Errors: 4 channels
+HTTP 409 Errors: 2 channels
 HTTP 410 Errors: 1 channels
-HTTP 429 Errors: 2 channels
-HTTP 451 Errors: 4 channels
+HTTP 429 Errors: 33 channels
+HTTP 451 Errors: 2 channels
+HTTP 458 Errors: 1 channels
 HTTP 477 Errors: 1 channels
-HTTP 500 Errors: 12 channels
-HTTP 502 Errors: 14 channels
-HTTP 503 Errors: 40 channels
-HTTP 504 Errors: 17 channels
+HTTP 500 Errors: 11 channels
+HTTP 502 Errors: 19 channels
+HTTP 503 Errors: 41 channels
+HTTP 504 Errors: 18 channels
 HTTP 520 Errors: 1 channels
 HTTP 521 Errors: 2 channels
 HTTP 523 Errors: 2 channels
 HTTP 530 Errors: 6 channels
 HTTP 567 Errors: 5 channels
 HTTP 574 Errors: 1 channels
-Inactive: 1074 channels
-Invalid Content: 209 channels
+Inactive: 1079 channels
+Invalid Content: 218 channels
 
 SKIPPED URLS (Invalid, Non-HTTP, or Duplicate)
 ---------------------------------------------
@@ -780,7 +779,7 @@ URL: https://jmp2.uk/plu-612e044c970e6f00083bcf3b.m3u8 (Reason: Duplicate)
 URL: https://7689426c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1mcl9aZWVNYWdpY19ITFM/playlist.m3u8 (Reason: Duplicate)
 URL: https://live.azenagroup.com/zenith/index.ll.m3u8 (Reason: Duplicate)
 
---- From Source: https://iptv-org.github.io/iptv/index.m3u (845 skipped) ---
+--- From Source: https://iptv-org.github.io/iptv/index.m3u (844 skipped) ---
 URL: https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8 (Reason: Duplicate)
 URL: https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8 (Reason: Duplicate)
 URL: https://3abn.bozztv.com/3abncanada/3ABN/master.m3u8 (Reason: Duplicate)
@@ -973,7 +972,6 @@ URL: https://bild-und-ton.stream/die-neue-zeit-tv-live/smil:dnz-de.smil/playlist
 URL: http://51.254.199.122:8080/DigitalCongoTV/index.m3u8 (Reason: Duplicate)
 URL: http://178.27.12.3:9981/stream/channelid/269948147?profile=pass (Reason: Duplicate)
 URL: http://86.87.15.10:8004/play/a02g/index.m3u8 (Reason: Duplicate)
-URL: https://masterofiptv.s.gy/iptv2/disney_channel_nl_uhd.m3u8 (Reason: Duplicate)
 URL: http://151.80.18.177:86/Disney_Junior_HD/index.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-62e922f6675f71000736db3b.m3u8 (Reason: Duplicate)
 URL: https://jmp2.uk/plu-62e951258a26d40007b3034c.m3u8 (Reason: Duplicate)
